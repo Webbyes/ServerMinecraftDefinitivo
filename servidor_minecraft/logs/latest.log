@@ -10516,3 +10516,42 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 18:49:02.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/74163, l='ServerLevel[world]', x=-2108.50, y=75.00, z=935.50]
 [08Jul2025 18:49:14.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
 [08Jul2025 18:49:22.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[08Jul2025 18:50:12.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=79, z=866} BlockPos{x=-2194, y=79, z=863}
+[08Jul2025 18:50:14.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=79, z=866} BlockPos{x=-2197, y=79, z=862}
+[08Jul2025 18:50:53.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=79, z=866} BlockPos{x=-2196, y=81, z=859}
+[08Jul2025 18:51:14.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:51:23.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:51:33.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Vex
+[08Jul2025 18:51:33.475] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[08Jul2025 18:51:33.476] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[08Jul2025 18:51:33.476] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[08Jul2025 18:51:33.476] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[08Jul2025 18:51:33.476] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[08Jul2025 18:51:34.751] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 18:51:55.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:52:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Is this... blood?]
+[08Jul2025 18:52:31.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jul2025 18:52:48.729] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 18:52:48.729] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 18:52:48.729] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 18:52:48.729] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 18:52:56.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[08Jul2025 18:52:56.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[08Jul2025 18:53:17.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:53:46.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[08Jul2025 18:55:45.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> zzz
+[08Jul2025 18:55:48.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> No
+[08Jul2025 18:56:34.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> zzzzzzzzzzzz
+[08Jul2025 18:58:12.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 18:58:33.427] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5678ms or 113 ticks behind
+[08Jul2025 18:58:39.654] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[08Jul2025 18:58:39.654] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 18:58:39.654] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 18:58:39.654] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:58:39.655] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 18:58:39.655] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:58:39.655] [Worker-Main-8/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:58:40.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Cobweb Entanglement]
+[08Jul2025 18:58:54.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6111ms or 122 ticks behind
+[08Jul2025 18:59:14.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
+[08Jul2025 18:59:38.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9195ms or 183 ticks behind
