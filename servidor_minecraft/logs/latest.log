@@ -10811,3 +10811,96 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 19:29:40.129] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
 [08Jul2025 19:29:43.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
 [08Jul2025 19:30:02.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[08Jul2025 19:30:22.645] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Timed out
+[08Jul2025 19:30:22.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[08Jul2025 19:30:22.646] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:30:22.647] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[08Jul2025 19:30:22.791] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:30:48.046] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Disconnected
+[08Jul2025 19:30:48.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[08Jul2025 19:30:48.047] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[08Jul2025 19:30:48.048] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[08Jul2025 19:31:01.142] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@213a5f97[id=<null>,name=AngelML,properties={},legacy=false] (/127.174.19.168:43953) lost connection: Disconnected
+[08Jul2025 19:31:16.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Timed out
+[08Jul2025 19:31:16.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[08Jul2025 19:31:16.173] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:31:16.174] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[08Jul2025 19:31:17.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:17.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:31:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:24.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:31:28.712] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:31:31.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:33343] logged in with entity id 113160 at (-2495.8415189814377, 95.9375, 1117.6184096119987)
+[08Jul2025 19:31:31.455] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[08Jul2025 19:31:31.455] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[08Jul2025 19:31:31.476] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[08Jul2025 19:31:31.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[08Jul2025 19:31:31.489] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:31:31.550] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[08Jul2025 19:31:33.548] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[08Jul2025 19:31:33.548] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[08Jul2025 19:31:33.548] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[08Jul2025 19:31:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:35.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:31:36.431] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 19:31:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:41.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:31:46.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:46.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[08Jul2025 19:31:57.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:31:57.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:32:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:32:01.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: open<--[HERE]
+[08Jul2025 19:32:09.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:32:10.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:32:13.079] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:32:16.368] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[08Jul2025 19:32:16.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:37841] logged in with entity id 114288 at (-2210.1307220432177, 86.0, 877.5285245620736)
+[08Jul2025 19:32:16.374] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[08Jul2025 19:32:16.374] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[08Jul2025 19:32:16.395] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[08Jul2025 19:32:16.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[08Jul2025 19:32:16.508] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[08Jul2025 19:32:16.509] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:32:17.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 19:32:19.261] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[08Jul2025 19:32:19.261] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[08Jul2025 19:32:19.261] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[08Jul2025 19:32:21.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML was kicked for floating too long!
+[08Jul2025 19:32:21.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Flying is not enabled on this server
+[08Jul2025 19:32:21.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[08Jul2025 19:32:21.848] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:32:21.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[08Jul2025 19:32:21.969] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:32:43.506] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[08Jul2025 19:32:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:32:48.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:32:54.587] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[08Jul2025 19:32:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[08Jul2025 19:32:54.588] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:32:54.588] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[08Jul2025 19:32:54.598] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58ba5b86[id=f1560095-bd08-4100-b4d8-75c6e03f0dc3,name=Elpompetas,properties={textures=[com.mojang.authlib.properties.Property@118a5397]},legacy=false] (/127.47.61.107:42189) lost connection: Disconnected
+[08Jul2025 19:32:54.655] [Server thread/INFO] [VivecraftServer/]: Vivecraft: shutting down vivecraft scheduler
+[08Jul2025 19:32:54.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Jul2025 19:32:54.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Jul2025 19:32:54.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Jul2025 19:32:54.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Jul2025 19:32:55.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[08Jul2025 19:32:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/undergarden:undergarden
+[08Jul2025 19:32:55.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[08Jul2025 19:32:55.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[08Jul2025 19:32:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[08Jul2025 19:32:55.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (undergarden): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Jul2025 19:32:55.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08Jul2025 19:32:55.616] [Server thread/INFO] [Framework/]: Unloading server configs...
+[08Jul2025 19:32:55.617] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[08Jul2025 19:32:55.619] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[08Jul2025 19:32:55.621] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopping IO worker...
+[08Jul2025 19:32:55.623] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Stopped IO worker!
