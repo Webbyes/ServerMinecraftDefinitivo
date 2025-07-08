@@ -10555,3 +10555,93 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 18:58:54.510] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6111ms or 122 ticks behind
 [08Jul2025 18:59:14.455] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4957ms or 99 ticks behind
 [08Jul2025 18:59:38.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9195ms or 183 ticks behind
+[08Jul2025 19:00:02.990] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9391ms or 187 ticks behind
+[08Jul2025 19:00:23.764] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5816ms or 116 ticks behind
+[08Jul2025 19:00:32.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [The Andesite Age]
+[08Jul2025 19:00:43.731] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4982ms or 99 ticks behind
+[08Jul2025 19:01:03.481] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4783ms or 95 ticks behind
+[08Jul2025 19:01:21.961] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3512ms or 70 ticks behind
+[08Jul2025 19:01:41.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4068ms or 81 ticks behind
+[08Jul2025 19:02:03.271] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
+[08Jul2025 19:02:23.408] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[08Jul2025 19:02:43.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4785ms or 95 ticks behind
+[08Jul2025 19:03:02.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4049ms or 80 ticks behind
+[08Jul2025 19:03:41.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Simple Dungeon Room]
+[08Jul2025 19:03:42.514] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2666ms or 53 ticks behind
+[08Jul2025 19:04:04.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has completed the challenge [Power Crystal]
+[08Jul2025 19:05:28.568] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 19:05:28.568] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 19:05:28.568] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 19:05:28.569] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 19:05:28.570] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 19:05:28.953] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jul2025 19:05:30.844] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 19:05:30.845] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 19:05:30.845] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 19:05:34.863] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/92751, l='ServerLevel[world]', x=-2517.50, y=22.00, z=1137.50] as it would cause deadlock
+[08Jul2025 19:05:35.199] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2524, y=-29, z=1299}
+[08Jul2025 19:05:35.200] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2524, y=-29, z=1299}
+[08Jul2025 19:05:42.910] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/92861, l='ServerLevel[world]', x=-2529.50, y=-28.00, z=1184.50] as it would cause deadlock
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2557, y=-4, z=1265}
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2556, y=-4, z=1266}
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2556, y=-3, z=1265}
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2557, y=-4, z=1265}
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2556, y=-4, z=1266}
+[08Jul2025 19:05:46.607] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2556, y=-3, z=1265}
+[08Jul2025 19:05:47.857] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3909ms or 78 ticks behind
+[08Jul2025 19:05:48.337] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2573, y=-17, z=1276}
+[08Jul2025 19:05:48.337] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2573, y=-17, z=1276}
+[08Jul2025 19:05:55.707] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2605, y=-54, z=1210}
+[08Jul2025 19:05:55.707] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2605, y=-53, z=1210}
+[08Jul2025 19:05:55.707] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2605, y=-54, z=1210}
+[08Jul2025 19:05:55.708] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2605, y=-53, z=1210}
+[08Jul2025 19:05:56.809] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93163, l='ServerLevel[world]', x=-2596.50, y=-28.00, z=1144.50] as it would cause deadlock
+[08Jul2025 19:06:05.171] [Worker-Main-13/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93270, l='ServerLevel[world]', x=-2621.50, y=-31.00, z=1151.50] as it would cause deadlock
+[08Jul2025 19:06:05.394] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93282, l='ServerLevel[world]', x=-2623.50, y=-53.00, z=1219.50] as it would cause deadlock
+[08Jul2025 19:06:05.523] [Worker-Main-11/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:06:05.523] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/93289, l='ServerLevel[world]', x=-2610.50, y=-53.00, z=1232.50] as it would cause deadlock
+[08Jul2025 19:06:05.567] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2621, y=-54, z=1248}
+[08Jul2025 19:06:05.567] [Worker-Main-9/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2621, y=-54, z=1248}
+[08Jul2025 19:06:09.533] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6684ms or 133 ticks behind
+[08Jul2025 19:06:10.512] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2646, y=-29, z=1333}
+[08Jul2025 19:06:10.512] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2645, y=-28, z=1332}
+[08Jul2025 19:06:10.512] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2646, y=-29, z=1333}
+[08Jul2025 19:06:10.513] [Worker-Main-14/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2645, y=-28, z=1332}
+[08Jul2025 19:06:10.513] [Worker-Main-14/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/93460, l='ServerLevel[world]', x=-2651.50, y=-28.00, z=1334.50] as it would cause deadlock
+[08Jul2025 19:06:11.264] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2646, y=-4, z=1232}
+[08Jul2025 19:06:11.264] [Worker-Main-11/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2646, y=-4, z=1232}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2651, y=-30, z=1145}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2650, y=-30, z=1144}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2651, y=-30, z=1143}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2651, y=-30, z=1145}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2650, y=-30, z=1144}
+[08Jul2025 19:06:11.542] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2651, y=-30, z=1143}
+[08Jul2025 19:06:14.473] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93541, l='ServerLevel[world]', x=-2657.50, y=-28.00, z=1313.50] as it would cause deadlock
+[08Jul2025 19:06:17.998] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2677, y=21, z=1290}
+[08Jul2025 19:06:17.999] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2677, y=22, z=1289}
+[08Jul2025 19:06:17.999] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2677, y=21, z=1290}
+[08Jul2025 19:06:17.999] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2677, y=22, z=1289}
+[08Jul2025 19:06:27.010] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93911, l='ServerLevel[world]', x=-2720.50, y=-53.00, z=1317.50] as it would cause deadlock
+[08Jul2025 19:06:27.011] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/93913, l='ServerLevel[world]', x=-2728.50, y=-53.00, z=1317.50] as it would cause deadlock
+[08Jul2025 19:06:29.511] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 19:06:29.511] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 19:06:29.511] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 19:06:29.511] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 19:06:32.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8310ms or 166 ticks behind
+[08Jul2025 19:06:39.717] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:06:52.748] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4949ms or 98 ticks behind
+[08Jul2025 19:07:11.869] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4171ms or 83 ticks behind
+[08Jul2025 19:07:31.007] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4159ms or 83 ticks behind
+[08Jul2025 19:07:49.125] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=7, y=-56, z=83}
+[08Jul2025 19:07:51.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5213ms or 104 ticks behind
+[08Jul2025 19:08:13.001] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6802ms or 136 ticks behind
+[08Jul2025 19:08:35.083] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7084ms or 141 ticks behind
+[08Jul2025 19:08:58.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8380ms or 167 ticks behind
+[08Jul2025 19:09:21.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7716ms or 154 ticks behind
+[08Jul2025 19:09:45.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind
