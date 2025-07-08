@@ -10476,3 +10476,43 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 18:38:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Life turned out to be a comedy]
 [08Jul2025 18:38:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
 [08Jul2025 18:39:05.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Not Today, Thank You]
+[08Jul2025 18:39:36.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:41:25.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:41:41.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:42:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:43:09.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:43:56.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Vex
+[08Jul2025 18:43:58.028] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 18:44:01.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:44:08.593] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/68998, l='ServerLevel[world]', x=-843.30, y=73.36, z=996.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 18:44:08.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Weather Warning]
+[08Jul2025 18:44:09.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jul2025 18:44:19.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:44:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[08Jul2025 18:44:27.211] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2362ms or 47 ticks behind
+[08Jul2025 18:44:45.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:44:54.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:45:42.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:45:53.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:47:16.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Senior Summoner]
+[08Jul2025 18:47:18.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:47:22.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:47:28.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:47:43.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:48:20.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:48:20.899] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/73447, l='ServerLevel[world]', x=-2116.50, y=75.00, z=943.50]
+[08Jul2025 18:48:21.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/73454, l='ServerLevel[world]', x=-2114.50, y=79.00, z=942.50]
+[08Jul2025 18:48:21.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/73455, l='ServerLevel[world]', x=-2117.50, y=79.00, z=944.50]
+[08Jul2025 18:48:21.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/73456, l='ServerLevel[world]', x=-2117.50, y=79.00, z=940.50]
+[08Jul2025 18:48:28.971] [pool-12-thread-1/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sunflower_plains], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_jungle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_snowy_slopes], ResourceKey[minecraft:worldgen/structure / valhelsia_structures:castle], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_meadow], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_birch_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos BlockPos{x=-2197, y=82, z=1083}
+[08Jul2025 18:48:31.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:48:36.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has completed the challenge [What a Nugget, Once Again!]
+[08Jul2025 18:48:49.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Vex
+[08Jul2025 18:48:50.552] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 18:49:02.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:49:02.392] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/74147, l='ServerLevel[world]', x=-2108.50, y=75.00, z=937.50]
+[08Jul2025 18:49:02.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/74161, l='ServerLevel[world]', x=-2105.50, y=75.00, z=937.50]
+[08Jul2025 18:49:02.889] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/74162, l='ServerLevel[world]', x=-2108.50, y=75.00, z=939.50]
+[08Jul2025 18:49:02.890] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/74163, l='ServerLevel[world]', x=-2108.50, y=75.00, z=935.50]
+[08Jul2025 18:49:14.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:49:22.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
