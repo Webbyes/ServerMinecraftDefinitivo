@@ -1,3 +1,4 @@
+
 #Game settings
 [settings]
 	#Farmer's Delight adds crates (3x3) for vanilla crops, similar to Quark and Thermal Cultivation. Should they be craftable?
@@ -35,8 +36,8 @@
 [overrides]
 	#Should soups and stews from vanilla Minecraft grant additional effects, like meals from this mod?
 	vanillaSoupExtraEffects = true
-	#Should Rabbit Stew be buffed with improved food stats?
-	rabbitStewBuff = true
+	#Should Rabbit Stew grant users the jumping prowess of a rabbit when eaten?
+	rabbitStewJumpBoost = true
 	#Should the Dispenser be able to operate a Cutting Board in front of it?
 	dispenserUsesToolsOnCuttingBoard = true
 
@@ -113,3 +114,4 @@
 		#Chance of generating clusters. Smaller value = more frequent.
 		#Range: > 0
 		chance = 15
+

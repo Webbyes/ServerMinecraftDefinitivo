@@ -1,0 +1,15 @@
+{
+	id: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c"
+	type: "player"
+	player_name: "AlejaXxD13"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "AlejaXxD13"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5998"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

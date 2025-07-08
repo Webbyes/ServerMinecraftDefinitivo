@@ -1,0 +1,29 @@
+{
+	id: "1f648427-0371-4024-92e2-bc0a74aeb4de"
+	type: "party"
+	owner: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c"
+	ranks: {
+		f1560095-bd08-4100-b4d8-75c6e03f0dc3: "member"
+		f56ceb3c-0490-461d-8c1a-0756d7eb7240: "member"
+		78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Antonio gome"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF5998"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751987214311L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AlejaXxD13\"}]}" }
+		{ from: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c", date: 1751987223896L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Elpompetas\"}]}" }
+		{ from: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c", date: 1751987223897L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Charwx080_aja\"}]}" }
+		{ from: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c", date: 1751987223897L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Webby80es\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751987228150L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Charwx080_aja\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751987229695L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Elpompetas\"}]}" }
+		{ from: "78a7c604-8d16-4a3d-8ac9-4c8e6f9dd90c", date: 1751987246341L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Webby80es\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751987249489L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Webby80es\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1751992077304L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"Webby80es\"}]}" }
+	]
+	extra: { }
+}

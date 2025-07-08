@@ -1,0 +1,17 @@
+{
+	id: "a599d386-2ec4-4831-b7b0-92b5326baea2"
+	type: "player"
+	player_name: "AngelML"
+	ranks: {
+		a599d386-2ec4-4831-b7b0-92b5326baea2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "AngelML"
+		"ftbteams:description": ""
+		"ftbteams:color": "#6659FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

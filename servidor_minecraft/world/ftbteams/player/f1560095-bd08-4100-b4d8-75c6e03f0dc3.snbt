@@ -1,0 +1,15 @@
+{
+	id: "f1560095-bd08-4100-b4d8-75c6e03f0dc3"
+	type: "player"
+	player_name: "Elpompetas"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Elpompetas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59C7"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

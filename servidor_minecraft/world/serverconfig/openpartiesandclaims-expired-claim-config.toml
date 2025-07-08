@@ -1,3 +1,6 @@
+
+[playerConfig]
+
 	[playerConfig.claims]
 		#The current sub-config ID used for new chunk claims.
 		usedSub = "main"
@@ -44,12 +47,12 @@
 			blocksFromExplosions = true
 			#When enabled, claimed chunk protection includes protection against fire spread.
 			fromFireSpread = true
-			#When enabled, claimed chunk protection includes block protection against enchantments such as frost walking applied by players/entities who don't have access to the chunks.
+			#When enabled, claimed chunk protection includes protection against frost walking by players/entities who don't have access to the chunks.
 			#
 			#1) Every - protected from all players/entities that don't have chunk access.
 			#2) Not Party - only players/entities not in the same party as you.
 			#3) Not Ally - only players/entities not in any party allied by yours.
-			blocksFromEnchantments = 1
+			fromFrostWalking = 1
 			#When enabled, claimed chunk protection includes protection against crop trample (falling on crops destroys them) for entities that don't have access to the chunks.
 			cropTrample = true
 			#When enabled, claimed chunk protection includes protection against fluids (e.g. lava) flowing into the protected chunks from outside. This does not protect wilderness.
@@ -257,6 +260,10 @@
 			#3) Not Ally - all projectiles, except owned by a player in any party allied by yours.
 			projectileHitFriendlySpawn = 1
 
+			[playerConfig.claims.protection.exceptionGroups]
+
+				[playerConfig.claims.protection.exceptionGroups.entity]
+
 					[playerConfig.claims.protection.exceptionGroups.entity.barrier]
 						#When enabled, claimed chunk protection prevents the following additional entities from entering the claim (except wilderness): minecraft:player.
 						#
@@ -336,6 +343,8 @@
 						#2) Allies - players or entities owned by players in parties that are allied by yours.
 						#3) Every - all players/entities.
 						Foxes = 0
+
+				[playerConfig.claims.protection.exceptionGroups.block]
 
 					[playerConfig.claims.protection.exceptionGroups.block.interact]
 						#When enabled, claimed chunk protection makes an exception for interaction with the following blocks: minecraft:lever, #minecraft:buttons.
@@ -425,6 +434,8 @@
 						#3) Every - all players/entities.
 						Crops = 0
 
+				[playerConfig.claims.protection.exceptionGroups.item]
+
 					[playerConfig.claims.protection.exceptionGroups.item.interact]
 						#When enabled, claimed chunk protection makes an exception for interaction with the following items: minecraft:written_book, minecraft:writable_book.
 						#
@@ -452,3 +463,4 @@
 		receiveLocationsFromParty = true
 		#When enabled, the sharable positions of players from the mutual ally parties of the party that you are in are shared with your game client, which can be used by other mods, e.g. to display allies on a map.
 		receiveLocationsFromMutualAllyParties = false
+

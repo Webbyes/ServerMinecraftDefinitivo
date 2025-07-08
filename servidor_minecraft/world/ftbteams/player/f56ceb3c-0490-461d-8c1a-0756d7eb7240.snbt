@@ -1,0 +1,15 @@
+{
+	id: "f56ceb3c-0490-461d-8c1a-0756d7eb7240"
+	type: "player"
+	player_name: "Charwx080_aja"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Charwx080_aja"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59B5FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

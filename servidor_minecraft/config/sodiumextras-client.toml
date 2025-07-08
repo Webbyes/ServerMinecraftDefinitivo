@@ -1,3 +1,6 @@
+
+[embeddiumextras]
+
 	[embeddiumextras.general]
 		#Set Fullscreen mode
 		#Borderless let you change between screens more faster and move your mouse across monitors
@@ -10,7 +13,7 @@
 		#Configure FPS Display gravity
 		#Places counter on specified corner of your screen
 		#Allowed Values: LEFT, CENTER, RIGHT
-		fpsDisplayGravity = "LEFT"
+		fpsDisplayGravity = "RIGHT"
 		#Shows GPU and memory usage onto FPS display
 		#Allowed Values: OFF, ON, GPU, RAM
 		fpsDisplaySystem = "OFF"
@@ -80,6 +83,8 @@
 		#Gives a flat style text
 		fontShadows = true
 
+		[embeddiumextras.performance.distanceCulling]
+
 			[embeddiumextras.performance.distanceCulling.tileEntities]
 				#Toggles distance culling for Block Entities
 				#Maybe you use another mod for that :(
@@ -114,7 +119,7 @@
 				#Uses ResourceLocation to identify it
 				#Example 1: "minecraft:bat" - Ignores bats only
 				#Example 2: "alexsmobs:*" - ignores all entities for alexmobs mod
-				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*"]
+				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*", "minecraft:wither", "cataclysm:maledictus", "cataclysm:ancient_remnant", "cataclysm:the_leviathan", "cataclysm:the_harbinger", "cataclysm:netherite_monstrosity", "cataclysm:ignis", "cataclysm:ender_guardian", "witherstormmod:wither_storm", "mowziesmobs:ferrous_wroughtnaut", "mowziesmobs:frostmaw", "mowziesmobs:umvuthi", "mowziesmobs:naga", "aquamirae:captain_cornelia", "graveyard:lich", "irons_spellbooks:dead_king", "alexsmobs:void_worm", "alexsmobs:void_worm_part", "bosses_of_mass_destruction:gauntlet", "bosses_of_mass_destruction:lich", "bosses_of_mass_destruction:obsidilith", "bosses_of_mass_destruction:void_blossom", "meetyourfight:bellringer", "meetyourfight:dame_fortuna", "meetyourfight:swampjaw", "legendary_monsters:endersent", "legendary_monsters:shulker_mimic", "legendary_monsters:skeletosaurus", "legendary_monsters:withered_abomination", "legendary_monsters:lava_eater", "legendary_monsters:frostbitten_golem", "legendary_monsters:cloud_golem", "legendary_monsters:overgrown_colossus", "legendary_monsters:ancient_guardian", "legendary_monsters:posessed_paladin", "legendary_monsters:dune_sentinel", "eeeabsmobs:nameless_guardian", "eeeabsmobs:immortal", "alexscaves:luxtructosaurus", "alexscaves:gum_worm", "alexscaves:forsaken", "alexscaves:tremorzilla", "alexscaves:hullbreaker", "witherstormmod:wither_storm", "witherstormmod:withered_symbiont", "witherstormmod:formidibomb", "witherstormmod:wither_storm_segment", "minecraft:end_crystal"]
 
 	[embeddiumextras.others]
 		#Configure if borderless fullscreen option should be attached to F11 or replace vanilla fullscreen
@@ -123,3 +128,4 @@
 		#Toggles fast language reload
 		#Embeddedt points it maybe cause troubles to JEI, so ¿why not add it as a toggleable option?
 		fastLanguageReload = true
+

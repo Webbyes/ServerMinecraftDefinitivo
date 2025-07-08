@@ -2,7 +2,3 @@
 ---
 vars:
   Author: Snownee
-eval:
-  printExpression: false
-kSwitch:
-  creativeOnly: false
