@@ -10284,3 +10284,117 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 17:58:02.088] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
 [08Jul2025 17:58:19.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
 [08Jul2025 17:58:45.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[08Jul2025 17:58:48.704] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2779, y=23, z=777}
+[08Jul2025 17:58:48.705] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2779, y=23, z=776}
+[08Jul2025 17:59:04.309] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3560ms or 71 ticks behind
+[08Jul2025 17:59:09.587] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:59:09.587] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:59:09.588] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:59:25.282] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[08Jul2025 17:59:26.844] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 17:59:26.845] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 17:59:26.845] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 17:59:26.846] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 17:59:26.847] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 17:59:26.847] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 17:59:26.847] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 17:59:26.847] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 17:59:33.266] [Worker-Main-1/WARN] [lithostitched/]: Non-existent template pool reference: kaisyn:village/meadow_swiss/villagers
+[08Jul2025 17:59:42.451] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2202ms or 44 ticks behind
+[08Jul2025 17:59:59.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
+[08Jul2025 18:00:02.152] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:00:02.152] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:00:02.152] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 18:00:18.523] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3825ms or 76 ticks behind
+[08Jul2025 18:00:37.348] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3849ms or 76 ticks behind
+[08Jul2025 18:00:40.512] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 18:00:40.513] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 18:00:40.514] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 18:00:40.514] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 18:00:55.374] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3076ms or 61 ticks behind
+[08Jul2025 18:01:04.068] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 18:01:04.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:01:04.069] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[08Jul2025 18:01:04.070] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 18:01:04.070] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 18:01:04.072] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:01:04.074] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:04.075] [Worker-Main-5/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:06.085] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 18:01:06.085] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 18:01:06.085] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[08Jul2025 18:01:06.085] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 18:01:06.085] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:06.086] [Worker-Main-6/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:01:13.157] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[08Jul2025 18:02:13.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[08Jul2025 18:02:38.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:02:56.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:03:09.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:04:03.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Best Friends Forever]
+[08Jul2025 18:04:10.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Suit Up]
+[08Jul2025 18:04:25.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Penteconter]
+[08Jul2025 18:04:39.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Suit Up]
+[08Jul2025 18:08:06.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.46100733778234826
+[08Jul2025 18:08:06.377] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.2697755569729452
+[08Jul2025 18:08:06.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.2736379744922033
+[08Jul2025 18:08:06.804] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.26281818525649214
+[08Jul2025 18:08:06.805] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.5193567599594644
+[08Jul2025 18:08:06.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.49094747102867586
+[08Jul2025 18:08:07.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of AngelML) moved wrongly! 0.4192629740157372
+[08Jul2025 18:08:19.160] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:08:19.160] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:08:19.161] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 18:08:19.161] [Worker-Main-4/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 18:08:23.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jul2025 18:08:41.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
+[08Jul2025 18:09:30.106] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jul2025 18:09:36.622] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[08Jul2025 18:09:36.623] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[08Jul2025 18:09:36.624] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:09:36.624] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[08Jul2025 18:09:36.625] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:09:36.625] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:09:36.626] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[08Jul2025 18:10:10.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[08Jul2025 18:11:45.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Jul2025 18:12:04.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2169ms or 43 ticks behind
+[08Jul2025 18:12:21.968] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2719ms or 54 ticks behind
+[08Jul2025 18:12:33.860] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=151}
+[08Jul2025 18:12:33.860] [Worker-Main-4/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=250, y=-19, z=149}
+[08Jul2025 18:12:41.545] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4597ms or 91 ticks behind
+[08Jul2025 18:12:50.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[08Jul2025 18:13:01.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[08Jul2025 18:13:21.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 18:13:52.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2141ms or 42 ticks behind
+[08Jul2025 18:14:28.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 18:14:50.056] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[08Jul2025 18:14:50.056] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:14:50.057] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 18:14:50.057] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 18:14:50.057] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 18:14:54.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[08Jul2025 18:15:13.256] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3408ms or 68 ticks behind
+[08Jul2025 18:15:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [First Village]
+[08Jul2025 18:15:15.355] [Worker-Main-3/ERROR] [net.minecraft.world.entity.animal.allay.Allay/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:16,source:{source_entity:[I;44558657,-805812143,-2135634931,493044029],type:"minecraft:entity",y_offset:0.36f}}]
+[08Jul2025 18:15:39.816] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[08Jul2025 18:16:04.200] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jul2025 18:16:31.100] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jul2025 18:16:40.889] [Worker-Main-11/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[08Jul2025 18:16:41.882] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 18:16:41.882] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 18:16:41.883] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 18:16:41.883] [Worker-Main-11/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 18:16:48.409] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2311ms or 46 ticks behind
+[08Jul2025 18:17:07.914] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[08Jul2025 18:17:25.206] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[08Jul2025 18:17:42.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2593ms or 51 ticks behind
+[08Jul2025 18:17:59.955] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
+[08Jul2025 18:18:17.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jul2025 18:18:34.581] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2583ms or 51 ticks behind
+[08Jul2025 18:18:53.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3692ms or 73 ticks behind
