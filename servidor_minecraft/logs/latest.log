@@ -10177,3 +10177,24 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 17:33:58.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Disme A Dozen]
 [08Jul2025 17:35:11.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
 [08Jul2025 17:35:33.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
+[08Jul2025 17:35:54.210] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[08Jul2025 17:36:17.320] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8121ms or 162 ticks behind
+[08Jul2025 17:36:38.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5849ms or 116 ticks behind
+[08Jul2025 17:36:56.663] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[08Jul2025 17:37:17.705] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[08Jul2025 17:37:35.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Hired Help]
+[08Jul2025 17:37:38.191] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5492ms or 109 ticks behind
+[08Jul2025 17:37:43.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by Iron Golem
+[08Jul2025 17:37:44.915] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[08Jul2025 17:37:50.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[08Jul2025 17:37:55.213] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
+[08Jul2025 17:39:47.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Monster Hunter]
+[08Jul2025 17:43:28.710] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[08Jul2025 17:43:28.827] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:43:28.828] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:43:28.828] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:43:28.828] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:44:22.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
+[08Jul2025 17:44:40.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3274ms or 65 ticks behind
+[08Jul2025 17:46:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Close Quarters]
+[08Jul2025 17:48:19.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [The Parrots and the Bats]
