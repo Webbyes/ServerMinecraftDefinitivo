@@ -10645,3 +10645,169 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 19:08:58.429] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8380ms or 167 ticks behind
 [08Jul2025 19:09:21.114] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7716ms or 154 ticks behind
 [08Jul2025 19:09:45.155] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9057ms or 181 ticks behind
+[08Jul2025 19:10:10.373] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10224ms or 204 ticks behind
+[08Jul2025 19:10:33.142] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7793ms or 155 ticks behind
+[08Jul2025 19:10:56.011] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7913ms or 158 ticks behind
+[08Jul2025 19:11:17.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6010ms or 120 ticks behind
+[08Jul2025 19:11:31.480] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3517316454394859
+[08Jul2025 19:11:31.483] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.7309419385414913
+[08Jul2025 19:11:31.562] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 1.138003491622385
+[08Jul2025 19:11:31.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3792045075756505
+[08Jul2025 19:11:31.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.7589773691756818
+[08Jul2025 19:11:31.705] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37945085586761707
+[08Jul2025 19:11:31.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37884145418865955
+[08Jul2025 19:11:31.838] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3783604776381253
+[08Jul2025 19:11:31.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.761667214778754
+[08Jul2025 19:11:31.908] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3783513969665364
+[08Jul2025 19:11:31.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37784103898866306
+[08Jul2025 19:11:32.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.761830782861125
+[08Jul2025 19:11:32.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3776643231099115
+[08Jul2025 19:11:32.103] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37696559619826076
+[08Jul2025 19:11:32.172] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3759206735380758
+[08Jul2025 19:11:32.239] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.375148299306602
+[08Jul2025 19:11:32.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3754559616127153
+[08Jul2025 19:11:32.299] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.7619868096785467
+[08Jul2025 19:11:32.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3732872637588116
+[08Jul2025 19:11:32.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37220516221032085
+[08Jul2025 19:11:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.7596741042643771
+[08Jul2025 19:11:32.511] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.37136989575265034
+[08Jul2025 19:11:32.585] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.33105982985898663
+[08Jul2025 19:11:32.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.29955236879959557
+[08Jul2025 19:11:32.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5876317207075772
+[08Jul2025 19:11:32.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3517059165455976
+[08Jul2025 19:11:37.674] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5676ms or 113 ticks behind
+[08Jul2025 19:11:57.902] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5254ms or 105 ticks behind
+[08Jul2025 19:12:17.281] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4382ms or 87 ticks behind
+[08Jul2025 19:12:36.327] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4079ms or 81 ticks behind
+[08Jul2025 19:12:55.695] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4396ms or 87 ticks behind
+[08Jul2025 19:13:16.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5489ms or 109 ticks behind
+[08Jul2025 19:13:37.380] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6282ms or 125 ticks behind
+[08Jul2025 19:13:45.043] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:13:58.855] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6506ms or 130 ticks behind
+[08Jul2025 19:14:20.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6860ms or 137 ticks behind
+[08Jul2025 19:14:41.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5451ms or 109 ticks behind
+[08Jul2025 19:15:02.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6084ms or 121 ticks behind
+[08Jul2025 19:15:23.772] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6573ms or 131 ticks behind
+[08Jul2025 19:15:45.056] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6308ms or 126 ticks behind
+[08Jul2025 19:16:05.738] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5690ms or 113 ticks behind
+[08Jul2025 19:16:10.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Bonk!]
+[08Jul2025 19:16:16.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Labyrinth]
+[08Jul2025 19:16:26.296] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5597ms or 111 ticks behind
+[08Jul2025 19:16:45.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was spiked to death
+[08Jul2025 19:16:46.838] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 19:16:46.921] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:16:48.131] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6883ms or 137 ticks behind
+[08Jul2025 19:17:53.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[08Jul2025 19:18:46.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[08Jul2025 19:18:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 19:19:04.222] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3173ms or 63 ticks behind
+[08Jul2025 19:19:22.696] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 19:19:22.697] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 19:19:22.697] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 19:19:22.697] [Worker-Main-7/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 19:19:24.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5070ms or 101 ticks behind
+[08Jul2025 19:19:45.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6163ms or 123 ticks behind
+[08Jul2025 19:20:01.469] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:20:07.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7161ms or 143 ticks behind
+[08Jul2025 19:20:09.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was blown up by Creeper
+[08Jul2025 19:20:11.503] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 19:20:11.627] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:21:05.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> xaero-waypoint:gui.xaero-deathpoint:D:-2670:21:1232:0:false:0:Internal-overworld-waypoints
+[08Jul2025 19:21:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2705.500000, 63.500000, 895.500000]
+[08Jul2025 19:21:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[08Jul2025 19:21:22.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2197.500000, 83.500000, 845.500000]
+[08Jul2025 19:21:47.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jul2025 19:22:39.378] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 19:22:39.378] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 19:22:39.378] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 19:22:39.378] [Worker-Main-10/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 19:23:04.504] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 19:23:06.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Diamonds!]
+[08Jul2025 19:23:23.203] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3705ms or 74 ticks behind
+[08Jul2025 19:23:38.186] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[08Jul2025 19:23:38.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[08Jul2025 19:23:38.187] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[08Jul2025 19:23:42.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4199ms or 83 ticks behind
+[08Jul2025 19:24:01.407] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4059ms or 81 ticks behind
+[08Jul2025 19:24:19.891] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3493ms or 69 ticks behind
+[08Jul2025 19:24:37.284] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2436ms or 48 ticks behind
+[08Jul2025 19:24:55.390] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3141ms or 62 ticks behind
+[08Jul2025 19:25:15.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5393ms or 107 ticks behind
+[08Jul2025 19:25:37.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7164ms or 143 ticks behind
+[08Jul2025 19:25:42.426] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:25:59.586] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6738ms or 134 ticks behind
+[08Jul2025 19:26:18.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was spiked to death
+[08Jul2025 19:26:19.727] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 19:26:19.805] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:26:20.604] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6056ms or 121 ticks behind
+[08Jul2025 19:27:20.122] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[08Jul2025 19:27:30.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:27:36.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/92, l='ServerLevel[world]', x=-2195.07, y=79.00, z=862.70] died, message: 'Toolsmith was slain by Zombie'
+[08Jul2025 19:27:37.511] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/23, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:27:41.204] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[08Jul2025 19:27:42.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:27:48.844] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/31, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:27:54.194] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/125, l='ServerLevel[world]', x=-2194.54, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:27:58.693] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2494ms or 49 ticks behind
+[08Jul2025 19:28:01.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26, l='ServerLevel[world]', x=-2194.68, y=78.00, z=862.30] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:28:07.972] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.70] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:28:14.084] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/25, l='ServerLevel[world]', x=-2194.38, y=78.00, z=862.30] died, message: 'Nitwit was slain by Zombie'
+[08Jul2025 19:28:18.004] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4356ms or 87 ticks behind
+[08Jul2025 19:28:19.596] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/90, l='ServerLevel[world]', x=-2194.30, y=78.00, z=862.70] died, message: 'Villager was slain by Zombie'
+[08Jul2025 19:28:35.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2883ms or 57 ticks behind
+[08Jul2025 19:28:53.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2864ms or 57 ticks behind
+[08Jul2025 19:29:03.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Timed out
+[08Jul2025 19:29:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[08Jul2025 19:29:03.992] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[08Jul2025 19:29:03.996] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[08Jul2025 19:29:04.057] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jul2025 19:29:07.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Timed out
+[08Jul2025 19:29:07.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[08Jul2025 19:29:07.226] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:29:07.226] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[08Jul2025 19:29:07.366] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[08Jul2025 19:29:09.617] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Timed out
+[08Jul2025 19:29:09.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[08Jul2025 19:29:09.617] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:29:09.618] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[08Jul2025 19:29:21.768] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:29:21.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 19:29:22.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[08Jul2025 19:29:24.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:51477] logged in with entity id 111607 at (-2499.814669384652, 96.0, 1116.454959849846)
+[08Jul2025 19:29:24.524] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[08Jul2025 19:29:24.525] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[08Jul2025 19:29:24.560] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[08Jul2025 19:29:24.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[08Jul2025 19:29:24.576] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[08Jul2025 19:29:24.729] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[08Jul2025 19:29:25.446] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Elpompetas is f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[08Jul2025 19:29:26.630] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[08Jul2025 19:29:26.672] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[08Jul2025 19:29:26.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[08Jul2025 19:29:28.147] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Elpompetas[/127.47.61.107:59613] logged in with entity id 111875 at (-2317.5020606471608, 95.0, 857.0951039024702)
+[08Jul2025 19:29:28.150] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[08Jul2025 19:29:28.150] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[08Jul2025 19:29:28.172] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Elpompetas
+[08Jul2025 19:29:28.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas joined the game
+[08Jul2025 19:29:28.224] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[08Jul2025 19:29:28.261] [Server thread/INFO] [Jade/]: Syncing config to Elpompetas (f1560095-bd08-4100-b4d8-75c6e03f0dc3)
+[08Jul2025 19:29:29.998] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[08Jul2025 19:29:30.229] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:29:30.794] [Server thread/INFO] [ping-wheel/]: Channel update: Elpompetas -> default
+[08Jul2025 19:29:30.795] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Elpompetas (18)
+[08Jul2025 19:29:30.795] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Elpompetas
+[08Jul2025 19:29:33.024] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[08Jul2025 19:29:33.026] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:44047] logged in with entity id 112088 at (-2211.7496789394922, 89.7531999805212, 879.7171446734767)
+[08Jul2025 19:29:33.029] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[08Jul2025 19:29:33.029] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[08Jul2025 19:29:33.049] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[08Jul2025 19:29:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[08Jul2025 19:29:33.173] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[08Jul2025 19:29:33.174] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[08Jul2025 19:29:34.541] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[08Jul2025 19:29:35.786] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[08Jul2025 19:29:35.786] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[08Jul2025 19:29:35.787] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[08Jul2025 19:29:40.129] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[08Jul2025 19:29:43.659] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[08Jul2025 19:30:02.074] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
