@@ -10198,3 +10198,89 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 17:44:40.922] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3274ms or 65 ticks behind
 [08Jul2025 17:46:09.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Close Quarters]
 [08Jul2025 17:48:19.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [The Parrots and the Bats]
+[08Jul2025 17:49:38.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Made From Clouds...]
+[08Jul2025 17:50:02.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Elpompetas> zzz
+[08Jul2025 17:50:06.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> gay
+[08Jul2025 17:52:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 17:52:32.289] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:52:32.289] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:52:32.289] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:52:33.184] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:52:33.184] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:52:33.184] [Worker-Main-12/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:52:33.665] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2510, y=-40, z=985}
+[08Jul2025 17:52:37.724] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2534, y=-8, z=909}
+[08Jul2025 17:52:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Survival Mode]
+[08Jul2025 17:52:40.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Alex's Caves]
+[08Jul2025 17:52:48.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 17:52:48.403] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2543, y=-33, z=802}
+[08Jul2025 17:52:48.404] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2543, y=-33, z=803}
+[08Jul2025 17:52:48.404] [Worker-Main-10/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2543, y=-33, z=804}
+[08Jul2025 17:53:03.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[08Jul2025 17:53:09.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[08Jul2025 17:53:28.529] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
+[08Jul2025 17:53:47.483] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3984ms or 79 ticks behind
+[08Jul2025 17:54:00.847] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[08Jul2025 17:54:00.847] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:54:00.848] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:54:00.848] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:54:08.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5656ms or 113 ticks behind
+[08Jul2025 17:54:29.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6235ms or 124 ticks behind
+[08Jul2025 17:54:50.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6349ms or 126 ticks behind
+[08Jul2025 17:54:56.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Survival Mode]
+[08Jul2025 17:55:09.838] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4240ms or 84 ticks behind
+[08Jul2025 17:55:14.856] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:55:14.856] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:55:14.856] [Worker-Main-13/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:55:18.122] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.47420938421828396
+[08Jul2025 17:55:18.223] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2904480059078196
+[08Jul2025 17:55:18.386] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5053019173201392
+[08Jul2025 17:55:18.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5058754573533406
+[08Jul2025 17:55:18.715] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.48537100726207427
+[08Jul2025 17:55:23.305] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5661785874131056
+[08Jul2025 17:55:23.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2842040202699536
+[08Jul2025 17:55:23.596] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.6026329857309065
+[08Jul2025 17:55:23.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2535539802861422
+[08Jul2025 17:55:23.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5556202707657576
+[08Jul2025 17:55:24.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5320676331216418
+[08Jul2025 17:55:55.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Webby80es) moved wrongly! 0.7431601139692248
+[08Jul2025 17:55:55.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Webby80es) moved wrongly! 0.7431601139692248
+[08Jul2025 17:55:56.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[08Jul2025 17:56:27.734] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[08Jul2025 17:56:49.804] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[08Jul2025 17:57:07.032] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2234ms or 44 ticks behind
+[08Jul2025 17:57:26.559] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4560ms or 91 ticks behind
+[08Jul2025 17:57:48.891] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2748454151936812
+[08Jul2025 17:57:48.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5529409833973205
+[08Jul2025 17:57:49.031] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.28057435645268924
+[08Jul2025 17:57:49.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2827751878238587
+[08Jul2025 17:57:49.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5300069945651558
+[08Jul2025 17:57:49.320] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5409984556434893
+[08Jul2025 17:57:49.549] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5072458478899762
+[08Jul2025 17:57:49.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2886163084557438
+[08Jul2025 17:57:49.698] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.28856541397146884
+[08Jul2025 17:57:49.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2881175998222716
+[08Jul2025 17:57:49.799] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.28801262385024984
+[08Jul2025 17:57:49.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.28752273012696605
+[08Jul2025 17:57:49.909] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2873916470060749
+[08Jul2025 17:57:49.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2868878941754929
+[08Jul2025 17:57:50.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2867505516425126
+[08Jul2025 17:57:50.055] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2862483607395916
+[08Jul2025 17:57:50.112] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.28611850920299275
+[08Jul2025 17:57:50.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2575066514610853
+[08Jul2025 17:57:50.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3800474184020004
+[08Jul2025 17:57:51.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.4660739413666306
+[08Jul2025 17:57:51.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.49998324866146504
+[08Jul2025 17:57:52.096] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.5134650947838963
+[08Jul2025 17:57:52.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.699951884010261
+[08Jul2025 17:57:52.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3507529061657806
+[08Jul2025 17:57:52.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.7024194402401918
+[08Jul2025 17:57:52.567] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3524249551446701
+[08Jul2025 17:57:52.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.3217431453263089
+[08Jul2025 17:57:52.672] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Elpompetas) moved wrongly! 0.2941931582181496
+[08Jul2025 17:58:02.087] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[08Jul2025 17:58:02.088] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:58:02.088] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[08Jul2025 17:58:02.088] [Worker-Main-15/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[08Jul2025 17:58:19.401] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[08Jul2025 17:58:45.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
