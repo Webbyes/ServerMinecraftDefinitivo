@@ -10442,3 +10442,37 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [08Jul2025 18:28:33.868] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4970ms or 99 ticks behind
 [08Jul2025 18:28:53.453] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4604ms or 92 ticks behind
 [08Jul2025 18:29:13.780] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5332ms or 106 ticks behind
+[08Jul2025 18:29:33.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4425ms or 88 ticks behind
+[08Jul2025 18:29:51.031] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2882ms or 57 ticks behind
+[08Jul2025 18:30:12.691] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6692ms or 133 ticks behind
+[08Jul2025 18:30:31.189] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[08Jul2025 18:30:48.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
+[08Jul2025 18:30:53.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:30:56.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:31:14.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[08Jul2025 18:31:36.149] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_main_room_pool
+[08Jul2025 18:31:36.150] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_2_pool
+[08Jul2025 18:31:36.150] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_3_pool
+[08Jul2025 18:31:36.150] [Worker-Main-3/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:miner_additions_1_pool
+[08Jul2025 18:32:19.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Elpompetas]
+[08Jul2025 18:32:24.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Survival Mode]
+[08Jul2025 18:33:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has completed the challenge [What a Nugget, Once Again!]
+[08Jul2025 18:33:52.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Local Brewery]
+[08Jul2025 18:34:12.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Dark Metallurgy]
+[08Jul2025 18:35:54.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2120, y=87, z=944} BlockPos{x=-2121, y=86, z=944}
+[08Jul2025 18:35:55.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:36:10.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:36:24.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:36:38.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Ol' Betsy]
+[08Jul2025 18:36:39.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Spectator Mode]
+[08Jul2025 18:36:48.792] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/63819, l='ServerLevel[world]', x=-2337.50, y=104.00, z=884.50]
+[08Jul2025 18:36:49.305] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63839, l='ServerLevel[world]', x=-2335.50, y=104.00, z=884.50]
+[08Jul2025 18:36:49.305] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63840, l='ServerLevel[world]', x=-2338.50, y=104.00, z=886.50]
+[08Jul2025 18:36:49.306] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63841, l='ServerLevel[world]', x=-2338.50, y=104.00, z=882.50]
+[08Jul2025 18:36:58.356] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: CloudEntity['entity.legendary_monsters.cloud'/63962, l='ServerLevel[world]', x=-2326.50, y=105.00, z=882.50]
+[08Jul2025 18:36:58.910] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63967, l='ServerLevel[world]', x=-2324.50, y=105.00, z=881.50]
+[08Jul2025 18:36:58.910] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63968, l='ServerLevel[world]', x=-2327.50, y=105.00, z=883.50]
+[08Jul2025 18:36:58.911] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: SmallCloudEntity['entity.legendary_monsters.small_cloud'/63969, l='ServerLevel[world]', x=-2327.50, y=105.00, z=879.50]
+[08Jul2025 18:38:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Life turned out to be a comedy]
+[08Jul2025 18:38:55.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Set own game mode to Creative Mode]
+[08Jul2025 18:39:05.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Not Today, Thank You]
