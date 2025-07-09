@@ -10143,3 +10143,18 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 12:08:47.616] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
 [09Jul2025 12:08:47.617] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
 [09Jul2025 12:28:09.213] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Webby80es" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-2323, y=26, z=839}] too quickly!
+[09Jul2025 12:59:29.700] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 12:59:32.566] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:56895] logged in with entity id 83670 at (-2278.4807729097265, 17.0, 1272.6862560900872)
+[09Jul2025 12:59:32.570] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 12:59:32.571] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 12:59:32.611] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 12:59:32.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 12:59:32.661] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 12:59:32.778] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 12:59:36.416] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 12:59:36.468] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 12:59:36.469] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 12:59:38.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Maric
+[09Jul2025 12:59:46.058] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 12:59:57.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> ese eres tu
+[09Jul2025 13:00:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Bruh
