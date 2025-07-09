@@ -1,0 +1,22 @@
+{
+	id: "322f3e79-efcf-41c7-9886-208a5687c287"
+	type: "party"
+	owner: "cb7eef6e-db76-493a-833a-9d516abc0597"
+	ranks: {
+		cb7eef6e-db76-493a-833a-9d516abc0597: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Webby80es's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752009388068L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Webby80es\"}]}" }
+		{ from: "cb7eef6e-db76-493a-833a-9d516abc0597", date: 1752009394467L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Swordragons\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752009396486L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Swordragons\"}]}" }
+		{ from: "cb7eef6e-db76-493a-833a-9d516abc0597", date: 1752010231625L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Swordragons\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Webby80es_s_Party#322f3e79\"},\"text\":\"Webby80es's Party\"}]}" }
+	]
+	extra: { }
+}

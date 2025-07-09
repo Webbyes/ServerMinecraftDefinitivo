@@ -1,0 +1,15 @@
+{
+	id: "39d9e18d-44a2-486f-b4f3-b40845c02da6"
+	type: "player"
+	player_name: "Swordragons"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Swordragons"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF8D"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

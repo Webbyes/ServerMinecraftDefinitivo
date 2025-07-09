@@ -1,0 +1,15 @@
+{
+	id: "0057fd46-a82b-46a7-8e3c-bb4831742a37"
+	type: "party"
+	owner: "cb7eef6e-db76-493a-833a-9d516abc0597"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Webby80es's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#B2FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
