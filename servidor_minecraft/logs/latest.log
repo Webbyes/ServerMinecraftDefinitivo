@@ -10449,3 +10449,70 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 14:50:58.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Not Today, Thank You]
 [09Jul2025 14:51:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Deceived Hopes]
 [09Jul2025 14:52:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[09Jul2025 14:53:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Deceived Hopes]
+[09Jul2025 14:53:06.706] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:53:09.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:33671] logged in with entity id 161757 at (-2209.9716339481934, 86.0, 878.6999999880791)
+[09Jul2025 14:53:09.540] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 14:53:09.540] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 14:53:09.564] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 14:53:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 14:53:09.634] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:53:09.667] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 14:53:12.123] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 14:53:12.123] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 14:53:12.124] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 14:53:20.881] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:54:14.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [It Belongs in a Museum]
+[09Jul2025 14:54:18.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [It Belongs in a Museum]
+[09Jul2025 14:54:36.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[09Jul2025 14:54:36.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[09Jul2025 14:54:36.103] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:54:36.104] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 14:54:39.242] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:54:42.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:51173] logged in with entity id 163252 at (-2202.76168399184, 65.0, 1033.9571979410703)
+[09Jul2025 14:54:42.022] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 14:54:42.023] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 14:54:42.044] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 14:54:42.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 14:54:42.087] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:54:42.114] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 14:54:42.656] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 14:54:42.656] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 14:54:42.656] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 14:54:50.964] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:55:33.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[09Jul2025 14:55:55.923] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[09Jul2025 14:56:17.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[09Jul2025 14:56:25.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML withered away
+[09Jul2025 14:56:26.406] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:56:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
+[09Jul2025 14:58:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was blown up by Creeper
+[09Jul2025 14:58:08.522] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 14:58:50.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 25.500000, 823.500000]
+[09Jul2025 14:59:16.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[09Jul2025 14:59:19.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=26, z=838} BlockPos{x=-2328, y=25, z=838}
+[09Jul2025 14:59:19.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=26, z=838} BlockPos{x=-2328, y=25, z=838}
+[09Jul2025 14:59:20.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=27, z=838} BlockPos{x=-2328, y=26, z=838}
+[09Jul2025 14:59:20.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=27, z=838} BlockPos{x=-2328, y=26, z=838}
+[09Jul2025 14:59:20.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=838} BlockPos{x=-2328, y=27, z=838}
+[09Jul2025 14:59:20.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=29, z=838} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:20.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=29, z=838} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=30, z=838} BlockPos{x=-2328, y=29, z=838}
+[09Jul2025 14:59:21.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=30, z=838} BlockPos{x=-2328, y=29, z=838}
+[09Jul2025 14:59:21.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=837} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.587] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=837} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=837} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=837} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=836} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=836} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:21.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2328, y=28, z=836} BlockPos{x=-2328, y=28, z=838}
+[09Jul2025 14:59:33.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was slain by Zombie
+[09Jul2025 14:59:34.648] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 15:01:04.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas bled to death
+[09Jul2025 15:01:05.892] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 15:02:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas fell from a high place
+[09Jul2025 15:02:12.530] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 15:02:47.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Successfully filled 75 block(s)]
+[09Jul2025 15:02:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [A Howling Discovery]
+[09Jul2025 15:02:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas fell from a high place
+[09Jul2025 15:02:59.727] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
