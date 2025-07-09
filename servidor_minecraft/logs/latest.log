@@ -10226,3 +10226,17 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:39:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Exorcism]
 [09Jul2025 21:41:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Witch using magic
 [09Jul2025 21:41:25.514] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 21:45:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [The Beginning of An Adventure]
+[09Jul2025 21:45:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Welcome To The Jungle]
+[09Jul2025 21:46:36.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Too Many Bows]
+[09Jul2025 21:48:45.448] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jul2025 21:49:18.737] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 18301ms or 366 ticks behind
+[09Jul2025 21:49:56.324] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 22588ms or 451 ticks behind
+[09Jul2025 21:50:34.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 23554ms or 471 ticks behind
+[09Jul2025 21:51:06.546] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 16710ms or 334 ticks behind
+[09Jul2025 21:51:32.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10898ms or 217 ticks behind
+[09Jul2025 21:51:58.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Silverfish
+[09Jul2025 21:51:59.346] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11960ms or 239 ticks behind
+[09Jul2025 21:51:59.919] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 21:53:45.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML got cut in half by a Mechanical Saw
+[09Jul2025 21:53:46.410] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
