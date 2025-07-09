@@ -10322,3 +10322,72 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 14:32:17.312] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
 [09Jul2025 14:32:23.608] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
 [09Jul2025 14:32:23.634] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20165ms or 403 ticks behind
+[09Jul2025 14:32:42.548] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3929ms or 78 ticks behind
+[09Jul2025 14:36:40.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Crimson Mosquito
+[09Jul2025 14:36:42.322] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:36:54.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2212, y=86, z=846}
+[09Jul2025 14:36:57.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-2212, y=86, z=845}
+[09Jul2025 14:37:08.104] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jul2025 14:37:17.308] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[09Jul2025 14:37:28.325] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:37:28.389] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 20270ms or 405 ticks behind
+[09Jul2025 14:37:45.767] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2397ms or 47 ticks behind
+[09Jul2025 14:37:58.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> zzzz
+[09Jul2025 14:39:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [What Now Is]
+[09Jul2025 14:39:16.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Nether Unlocked!]
+[09Jul2025 14:40:23.075] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Jul2025 14:40:27.818] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jul2025 14:40:27.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [We Need to Go Deeper]
+[09Jul2025 14:40:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Incendium]
+[09Jul2025 14:40:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Nether Depths Upgrade]
+[09Jul2025 14:40:30.628] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:30.629] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[09Jul2025 14:40:30.630] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:30.631] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:30.631] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:30.878] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:30.878] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[09Jul2025 14:40:30.878] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:30.878] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:30.878] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:31.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:31.144] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[09Jul2025 14:40:31.145] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:31.145] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:31.145] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:31.379] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:31.379] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[09Jul2025 14:40:31.379] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:31.379] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:31.379] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:31.651] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:31.651] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[09Jul2025 14:40:31.651] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:31.651] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:31.651] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:31.881] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:31.881] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 5 is dual wielding: false
+[09Jul2025 14:40:31.881] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:31.881] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:31.881] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:32.138] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:32.138] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[09Jul2025 14:40:32.138] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:32.138] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:32.138] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:32.381] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[09Jul2025 14:40:32.381] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[09Jul2025 14:40:32.381] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 1 bucket
+[09Jul2025 14:40:32.381] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 1 shield
+[09Jul2025 14:40:32.382] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 5 | client: 3
+[09Jul2025 14:40:39.993] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 14:40:46.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Crimson Mosquito
+[09Jul2025 14:40:48.402] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:40:49.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11292ms or 225 ticks behind
+[09Jul2025 14:40:59.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Nightmare Fuel]
+[09Jul2025 14:41:07.544] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jul2025 14:41:17.309] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
+[09Jul2025 14:41:19.658] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:41:19.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13285ms or 265 ticks behind
+[09Jul2025 14:41:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Alex's Caves]
+[09Jul2025 14:41:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [What Was That!?]

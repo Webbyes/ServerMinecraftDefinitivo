@@ -4188,6 +4188,7 @@
     "criteria": {
       "cooked_beef": "2025-07-08 17:35:37 +0000",
       "apple": "2025-07-08 17:47:04 +0000",
+      "potato": "2025-07-09 14:30:37 +0000",
       "bread": "2025-07-08 17:35:41 +0000",
       "golden_apple": "2025-07-08 18:47:03 +0000",
       "rotten_flesh": "2025-07-08 19:20:02 +0000",
@@ -9330,76 +9331,82 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-09 14:26:13 +0000",
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "requirement": "2025-07-09 14:37:32 +0000",
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": true
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 14:26:07 +0000"
+      "log_spam_fixer": "2025-07-09 14:37:03 +0000"
     },
     "done": false
+  },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
   },
   "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
     "criteria": {
@@ -9425,6 +9432,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
@@ -9436,6 +9449,12 @@
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_hit": {
+    "criteria": {
+      "not_target": "2025-07-09 14:38:07 +0000"
+    },
+    "done": false
   },
   "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
     "criteria": {
@@ -9452,6 +9471,12 @@
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9479,15 +9504,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/decorations/crimson_ladder_from_crimson_stems_sawing": {
     "criteria": {
       "has_crimson_stems": "2025-07-09 14:25:22 +0000"
     },
     "done": true
   },
+  "rubinated_nether:recipes/misc/soakstone": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9539,6 +9582,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
@@ -9551,15 +9600,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_tropical_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:22 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_four_panel_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-09 14:30:19 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/obsidian_from_magma_block": {
+    "criteria": {
+      "has_magma_block": "2025-07-09 14:38:13 +0000"
     },
     "done": true
   },
@@ -9572,6 +9651,12 @@
   "woodworks:recipes/building_blocks/crimson_slab_from_crimson_stems_sawing": {
     "criteria": {
       "has_crimson_stems": "2025-07-09 14:25:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9599,6 +9684,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 14:30:19 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
@@ -9611,6 +9702,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 14:30:19 +0000"
+    },
+    "done": true
+  },
   "woodworks:recipes/building_blocks/crimson_slab_from_crimson_planks_sawing": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
@@ -9620,6 +9717,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9653,6 +9756,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-09 14:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_planks": {
     "criteria": {
       "has_logs": "2025-07-09 14:25:22 +0000"
@@ -9674,6 +9783,12 @@
   "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9725,15 +9840,39 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 14:30:19 +0000"
     },
     "done": true
   },
@@ -9773,9 +9912,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 14:30:19 +0000"
     },
     "done": true
   },
@@ -9788,6 +9951,12 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9827,6 +9996,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
@@ -9845,9 +10020,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 14:30:19 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/crimson/crimson_paper_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:22 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9893,9 +10080,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:49 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/netherrack_bricks_from_netherrack_stonecutting": {
+    "criteria": {
+      "has_netherrack": "2025-07-09 14:34:30 +0000"
     },
     "done": true
   },
@@ -9914,6 +10113,12 @@
   "mcwtrpdoors:recipes/crimson/crimson_ranch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-09 14:25:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-09 14:30:19 +0000"
     },
     "done": true
   },
