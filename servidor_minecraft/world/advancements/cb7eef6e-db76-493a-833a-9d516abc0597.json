@@ -11352,87 +11352,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
-    },
-    "done": false
-  },
   "securitycraft:recipes/building_blocks/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -11445,12 +11367,6 @@
   "securitycraft:recipes/decorations/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_slab_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11472,33 +11388,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-09 15:18:48 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_hit": {
-    "criteria": {
-      "not_target": "2025-07-09 15:30:37 +0000"
-    },
-    "done": false
-  },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cherry_planks": {
-    "criteria": {
-      "has_log": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11511,18 +11403,6 @@
   "securitycraft:recipes/decorations/reinforced_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_boards_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -11556,21 +11436,9 @@
     },
     "done": true
   },
-  "galosphere:recipes/building_blocks/lumiere_block": {
-    "criteria": {
-      "has_lumiere_shard": "2025-07-09 14:56:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11586,51 +11454,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/oak_boards": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/cherry_sign_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11640,21 +11466,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11664,21 +11478,9 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/cherry_fence_gate_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11706,12 +11508,6 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
@@ -11730,39 +11526,15 @@
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_brown_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
     },
     "done": true
   },
-  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "shutter:recipes/misc/oak_shutter": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -11778,21 +11550,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cherry_wood": {
-    "criteria": {
-      "has_log": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -11802,21 +11562,9 @@
     },
     "done": true
   },
-  "woodworks:recipes/redstone/cherry_door_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/cherry_button_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11826,39 +11574,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 15:18:48 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_umvuthi": {
-    "criteria": {
-      "barako": "2025-07-09 15:16:38 +0000"
     },
     "done": true
   },
@@ -11883,12 +11601,6 @@
   "securitycraft:recipes/decorations/reinforced_blue_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -11934,45 +11646,15 @@
     },
     "done": true
   },
-  "woodworks:recipes/redstone/cherry_trapdoor_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/building_blocks/reinforced_cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
     },
     "done": true
   },
-  "woodworks:recipes/decorations/cherry_fence_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "netherdepthsupgrade:recipes/netherdepthsupgrade/lava_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_stairs_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -11985,12 +11667,6 @@
   "securitycraft:recipes/decorations/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather": {
-    "criteria": {
-      "has_rabbit_hide": "2025-07-09 15:19:18 +0000"
     },
     "done": true
   },
@@ -12018,12 +11694,6 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/decorations/reinforced_light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
@@ -12036,33 +11706,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
-    "criteria": {
-      "has_log": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "galosphere:recipes/decorations/lumiere_lamp": {
-    "criteria": {
-      "has_lumiere_shard": "2025-07-09 14:56:42 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
     },
     "done": true
   },
@@ -12084,24 +11730,6 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-07-09 14:54:18 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-07-09 14:55:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
@@ -12111,18 +11739,6 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-07-09 14:53:00 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/decorations/cherry_ladder_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -12147,24 +11763,6 @@
   "securitycraft:recipes/decorations/reinforced_black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-07-09 14:52:58 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/redstone/cherry_pressure_plate_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
-    "criteria": {
-      "has_logs": "2025-07-09 14:53:59 +0000"
-    },
-    "done": true
-  },
-  "woodworks:recipes/building_blocks/cherry_planks_from_cherry_logs_sawing": {
-    "criteria": {
-      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
     },
     "done": true
   },
@@ -12198,9 +11796,1029 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-07-09 14:53:00 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_slab_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_boards_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_sign_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_fence_gate_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_door_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_button_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_four_panel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_whispering_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_trapdoor_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_fence_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_stairs_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/cherry_palisade": {
+    "criteria": {
+      "has_log": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/cherry_ladder_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/cherry_pressure_plate_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/cherry/cherry_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/cherry_planks_from_cherry_logs_sawing": {
+    "criteria": {
+      "has_cherry_logs": "2025-07-09 14:53:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-09 14:54:18 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/oak_boards": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "shutter:recipes/misc/oak_shutter": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-07-09 14:55:39 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/building_blocks/lumiere_block": {
+    "criteria": {
+      "has_lumiere_shard": "2025-07-09 14:56:42 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/decorations/lumiere_lamp": {
+    "criteria": {
+      "has_lumiere_shard": "2025-07-09 14:56:42 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthi": {
+    "criteria": {
+      "barako": "2025-07-09 15:16:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-09 15:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 15:18:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-07-09 15:19:18 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-09 20:00:29 +0000"
+    },
+    "done": false
+  },
+  "woodworks:recipes/building_blocks/warped_boards_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_support": {
+    "criteria": {
+      "has_plank": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_slab_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_fence_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_desk_drawer": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_warped": {
+    "criteria": {
+      "has_item": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/warped_cabinet": {
+    "criteria": {
+      "has_warped_trapdoor": "2025-07-09 19:58:56 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_table": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/warped_window": {
+    "criteria": {
+      "has_ingredient": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/warped_seat": {
+    "criteria": {
+      "has_plank": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/raw_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/chiseled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/building_blocks/warped_stairs_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "suppsquared:recipes/decorations/item_shelf_warped": {
+    "criteria": {
+      "has_item": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_tile_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plate_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cracked_dark_prismarine_bricks_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_desk": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/warped_button_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_wall_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-07-09 19:58:51 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/decorations/warped_ladder_from_warped_planks_sawing": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/warped/warped_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_chair": {
+    "criteria": {
+      "has_warped_planks": "2025-07-09 19:59:12 +0000"
     },
     "done": true
   },
