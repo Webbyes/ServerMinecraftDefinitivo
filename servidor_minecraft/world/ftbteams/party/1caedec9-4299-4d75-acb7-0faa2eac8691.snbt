@@ -1,0 +1,22 @@
+{
+	id: "1caedec9-4299-4d75-acb7-0faa2eac8691"
+	type: "party"
+	owner: "cb7eef6e-db76-493a-833a-9d516abc0597"
+	ranks: {
+		a599d386-2ec4-4831-b7b0-92b5326baea2: "member"
+		cb7eef6e-db76-493a-833a-9d516abc0597: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Webby80es's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59E4"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752068249312L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Webby80es\"}]}" }
+		{ from: "cb7eef6e-db76-493a-833a-9d516abc0597", date: 1752068249327L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"AngelML\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1752068252922L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"AngelML\"}]}" }
+	]
+	extra: { }
+}

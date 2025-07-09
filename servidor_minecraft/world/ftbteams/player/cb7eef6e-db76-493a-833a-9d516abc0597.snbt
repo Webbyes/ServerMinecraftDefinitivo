@@ -2,9 +2,7 @@
 	id: "cb7eef6e-db76-493a-833a-9d516abc0597"
 	type: "player"
 	player_name: "Webby80es"
-	ranks: {
-		cb7eef6e-db76-493a-833a-9d516abc0597: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Webby80es"
 		"ftbteams:description": ""

@@ -10181,3 +10181,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 13:12:55.218] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [09Jul2025 13:18:21.908] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
 [09Jul2025 13:19:32.423] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[09Jul2025 13:21:52.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[09Jul2025 13:22:43.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2216.500000, 88.500000, 874.500000]
+[09Jul2025 13:23:37.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Zombie Bruiser
+[09Jul2025 13:23:39.263] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 13:23:42.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
+[09Jul2025 13:23:54.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[09Jul2025 13:25:43.507] [Worker-Main-154/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [8 above bottom-0 absolute]
+[09Jul2025 13:25:43.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Enter the Undergarden]
+[09Jul2025 13:25:43.741] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 13:25:43.750] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15381ms or 307 ticks behind
+[09Jul2025 13:25:44.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Enter the Undergarden]
+[09Jul2025 13:26:00.997] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 13:26:09.819] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11100ms or 222 ticks behind
+[09Jul2025 13:28:44.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Overkill]
+[09Jul2025 13:28:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Birth Control]
+[09Jul2025 13:31:00.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has completed the challenge [Rotbane]
+[09Jul2025 13:34:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Birth Control]
+[09Jul2025 13:34:26.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Rotbane]
+[09Jul2025 13:36:28.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Deep Extraction]
+[09Jul2025 13:37:17.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=37, z=-90} BlockPos{x=-168, y=37, z=-88}
+[09Jul2025 13:37:17.255] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-166, y=37, z=-90} BlockPos{x=-168, y=37, z=-88}
+[09Jul2025 13:37:29.418] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 13:37:33.060] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 13:38:08.881] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[09Jul2025 13:39:09.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[09Jul2025 13:39:30.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Forgotten Halls]
+[09Jul2025 13:39:44.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Forgotten Halls]
+[09Jul2025 13:39:54.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Decommissioned]
+[09Jul2025 13:40:12.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es was slain by AngelML
+[09Jul2025 13:40:13.736] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 13:40:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 13:40:16.615] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 13:41:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Cold Dead Hands]
