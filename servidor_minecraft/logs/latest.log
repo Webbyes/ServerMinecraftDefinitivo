@@ -10114,3 +10114,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 20:12:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Thunder Time]
 [09Jul2025 20:12:41.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2324.500000, 39.500000, 850.500000]
 [09Jul2025 20:13:21.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Successfully filled 197 block(s)]
+[09Jul2025 20:28:57.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[09Jul2025 20:28:57.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[09Jul2025 20:28:57.361] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 20:28:57.364] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
