@@ -10210,3 +10210,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:08:19.776] [Worker-Main-101/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
 [09Jul2025 21:08:19.777] [Worker-Main-101/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
 [09Jul2025 21:14:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> zzz
+[09Jul2025 21:16:41.761] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[09Jul2025 21:16:41.761] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[09Jul2025 21:16:41.761] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[09Jul2025 21:16:41.762] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[09Jul2025 21:16:41.762] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[09Jul2025 21:22:12.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [The day of the Dead]
+[09Jul2025 21:24:27.255] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:24:27.256] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:24:27.256] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
