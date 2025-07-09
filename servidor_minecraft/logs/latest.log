@@ -10123,3 +10123,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 11:27:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was slain by Dire Hound Leader
 [09Jul2025 11:27:10.524] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
 [09Jul2025 11:27:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Big Boy]
+[09Jul2025 11:34:39.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2288, y=60, z=1273} BlockPos{x=-2210, y=80, z=838}
+[09Jul2025 11:34:39.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2288, y=60, z=1273} BlockPos{x=-2210, y=80, z=837}
