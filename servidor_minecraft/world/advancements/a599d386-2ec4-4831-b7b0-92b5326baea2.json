@@ -666,6 +666,7 @@
       "minecraft:birch_forest": "2025-07-08 17:14:59 +0000",
       "minecraft:beach": "2025-07-08 18:24:57 +0000",
       "minecraft:dark_forest": "2025-07-08 17:36:39 +0000",
+      "minecraft:sparse_jungle": "2025-07-09 15:27:28 +0000",
       "minecraft:river": "2025-07-08 17:32:12 +0000",
       "minecraft:stony_shore": "2025-07-08 17:43:05 +0000",
       "minecraft:dripstone_caves": "2025-07-08 21:35:48 +0000",
@@ -7540,7 +7541,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "cartographytable": "2025-07-08 22:00:17 +0000"
+      "cartographytable": "2025-07-08 22:00:17 +0000",
+      "lectern": "2025-07-09 15:19:25 +0000"
     },
     "done": false
   },
@@ -10046,74 +10048,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-09 15:18:45 +0000",
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 15:18:05 +0000"
+      "log_spam_fixer": "2025-07-09 15:30:07 +0000"
     },
     "done": false
   },
@@ -10267,6 +10268,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-07-09 15:24:30 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/combat/froststeel_helmet": {
     "criteria": {
       "has_froststeel_ingot": "2025-07-09 15:00:19 +0000"
@@ -10276,6 +10283,12 @@
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 15:12:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-07-09 15:24:30 +0000"
     },
     "done": true
   },
