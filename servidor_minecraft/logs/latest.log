@@ -10222,3 +10222,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:27:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Junior Summoner]
 [09Jul2025 21:28:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [09Jul2025 21:28:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
+[09Jul2025 21:35:55.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Dark Metallurgy]
+[09Jul2025 21:39:27.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Exorcism]
+[09Jul2025 21:41:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was killed by Witch using magic
+[09Jul2025 21:41:25.514] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
