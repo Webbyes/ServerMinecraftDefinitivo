@@ -10158,3 +10158,26 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 12:59:46.058] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
 [09Jul2025 12:59:57.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> ese eres tu
 [09Jul2025 13:00:01.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Webby80es> Bruh
+[09Jul2025 13:05:51.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [Ice Bucket Challenge]
+[09Jul2025 13:06:05.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to -2216.500000, 88.500000, 874.500000]
+[09Jul2025 13:06:37.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2212, y=89, z=877} BlockPos{x=-2212, y=88, z=877}
+[09Jul2025 13:06:37.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2212, y=89, z=877} BlockPos{x=-2212, y=88, z=877}
+[09Jul2025 13:06:37.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2212, y=89, z=877} BlockPos{x=-2212, y=88, z=877}
+[09Jul2025 13:06:37.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2213, y=89, z=877} BlockPos{x=-2212, y=89, z=877}
+[09Jul2025 13:06:37.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2214, y=89, z=877} BlockPos{x=-2213, y=89, z=877}
+[09Jul2025 13:06:37.610] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2214, y=89, z=877} BlockPos{x=-2213, y=89, z=877}
+[09Jul2025 13:06:37.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2215, y=89, z=877} BlockPos{x=-2214, y=89, z=877}
+[09Jul2025 13:06:38.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2215, y=88, z=877} BlockPos{x=-2215, y=89, z=877}
+[09Jul2025 13:06:38.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2215, y=88, z=877} BlockPos{x=-2215, y=89, z=877}
+[09Jul2025 13:06:38.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2215, y=87, z=877} BlockPos{x=-2215, y=88, z=877}
+[09Jul2025 13:06:38.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2215, y=86, z=877} BlockPos{x=-2215, y=87, z=877}
+[09Jul2025 13:06:39.410] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2214, y=85, z=877} BlockPos{x=-2215, y=86, z=877}
+[09Jul2025 13:06:39.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2213, y=85, z=877} BlockPos{x=-2214, y=85, z=877}
+[09Jul2025 13:07:27.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Masquerade]
+[09Jul2025 13:08:36.443] [Worker-Main-264/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
+[09Jul2025 13:10:13.675] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[09Jul2025 13:11:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [One Ticket Please]
+[09Jul2025 13:12:53.479] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[09Jul2025 13:12:55.218] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[09Jul2025 13:18:21.908] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[09Jul2025 13:19:32.423] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
