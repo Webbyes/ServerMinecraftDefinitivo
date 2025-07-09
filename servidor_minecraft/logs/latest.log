@@ -10224,3 +10224,36 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 13:59:00.202] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
 [09Jul2025 13:59:00.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
 [09Jul2025 14:10:58.477] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:13:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [What Now Is]
+[09Jul2025 14:13:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Nether Unlocked!]
+[09Jul2025 14:13:23.392] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[09Jul2025 14:13:27.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [We Need to Go Deeper]
+[09Jul2025 14:13:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Incendium]
+[09Jul2025 14:13:27.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Nether Depths Upgrade]
+[09Jul2025 14:13:48.323] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:13:48.339] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 24919ms or 498 ticks behind
+[09Jul2025 14:15:21.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Nightmare Fuel]
+[09Jul2025 14:15:24.472] [Worker-Main-154/INFO] [happyghastmod/]: ✓ GhastlingIncubatorFeature successfully placed at BlockPos{x=-139, y=89, z=179}
+[09Jul2025 14:15:25.286] [Worker-Main-249/INFO] [happyghastmod/]: ✓ GhastlingIncubatorFeature successfully placed at BlockPos{x=-122, y=82, z=92}
+[09Jul2025 14:15:31.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML tried to swim in lava
+[09Jul2025 14:15:35.671] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:15:56.488] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[09Jul2025 14:15:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[09Jul2025 14:15:56.490] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:15:56.491] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 14:16:03.687] [User Authenticator #5/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:16:06.558] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:42949] logged in with entity id 129268 at (-2314.767807910526, 95.0, 850.8706859533274)
+[09Jul2025 14:16:06.561] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 14:16:06.562] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 14:16:06.596] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 14:16:06.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 14:16:06.631] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:16:06.744] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 14:16:06.970] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 14:16:06.970] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 14:16:06.970] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 14:19:09.891] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Timed out
+[09Jul2025 14:19:09.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[09Jul2025 14:19:09.892] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:19:09.893] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 14:19:09.940] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
