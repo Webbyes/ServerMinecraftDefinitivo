@@ -10391,3 +10391,61 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 14:41:19.704] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13285ms or 265 ticks behind
 [09Jul2025 14:41:30.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Alex's Caves]
 [09Jul2025 14:41:58.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [What Was That!?]
+[09Jul2025 14:43:32.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was slain by Zombie
+[09Jul2025 14:43:35.078] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 14:43:53.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 14:43:56.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[09Jul2025 14:43:56.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[09Jul2025 14:43:56.186] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 14:43:56.187] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[09Jul2025 14:44:01.087] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 14:44:03.966] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[09Jul2025 14:44:03.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:55785] logged in with entity id 152564 at (-269.20675447028367, 27.73042208107346, 93.6786654913552)
+[09Jul2025 14:44:03.971] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 14:44:03.971] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 14:44:03.994] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[09Jul2025 14:44:04.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[09Jul2025 14:44:04.128] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[09Jul2025 14:44:04.130] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 14:44:04.320] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[09Jul2025 14:44:04.320] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[09Jul2025 14:44:04.321] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[09Jul2025 14:44:08.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es tried to swim in lava
+[09Jul2025 14:44:12.721] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 14:44:14.793] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 14:44:19.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 14:44:19.610] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 14:45:30.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas was shot by Skeleton
+[09Jul2025 14:45:52.315] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 14:46:19.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML was burnt to a crisp whilst fighting Crimson Mosquito
+[09Jul2025 14:46:20.810] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:46:22.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[09Jul2025 14:46:31.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported AngelML to Webby80es]
+[09Jul2025 14:46:31.767] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:46:40.034] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
+[09Jul2025 14:46:53.857] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
+[09Jul2025 14:47:15.120] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[09Jul2025 14:47:34.842] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 14:47:48.110] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Disconnected
+[09Jul2025 14:47:48.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[09Jul2025 14:47:48.111] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:47:48.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 14:47:51.010] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:47:53.836] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:34363] logged in with entity id 156371 at (-2209.9716339481934, 86.0, 878.6999999880791)
+[09Jul2025 14:47:53.840] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 14:47:53.840] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 14:47:53.866] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 14:47:53.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 14:47:53.974] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:47:54.007] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 14:47:54.904] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 14:47:54.904] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 14:47:54.905] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 14:49:18.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/154988, l='ServerLevel[world]', x=-2362.68, y=-0.09, z=823.32] died: Angry Creeper was shot by Elpompetas
+[09Jul2025 14:49:22.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AngelML lost connection: Timed out
+[09Jul2025 14:49:22.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
+[09Jul2025 14:49:22.012] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 14:49:22.012] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 14:50:58.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Not Today, Thank You]
+[09Jul2025 14:51:29.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas has made the advancement [Deceived Hopes]
+[09Jul2025 14:52:26.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to Elpompetas]
