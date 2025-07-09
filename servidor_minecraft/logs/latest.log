@@ -10214,3 +10214,12 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 13:40:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
 [09Jul2025 13:40:16.615] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
 [09Jul2025 13:41:03.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has reached the goal [Cold Dead Hands]
+[09Jul2025 13:46:03.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Deep Extraction]
+[09Jul2025 13:49:11.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Decommissioned]
+[09Jul2025 13:54:45.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has made the advancement [The Ire in Fire]
+[09Jul2025 13:54:56.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 13:56:35.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 13:59:00.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Webby80es lost connection: Disconnected
+[09Jul2025 13:59:00.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
+[09Jul2025 13:59:00.202] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 13:59:00.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
