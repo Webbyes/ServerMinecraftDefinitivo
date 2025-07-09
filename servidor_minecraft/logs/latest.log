@@ -10206,3 +10206,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:00:47.695] [Worker-Main-106/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
 [09Jul2025 21:00:54.691] [Worker-Main-97/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=1340, y=81, z=648}
 [09Jul2025 21:01:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Good Demoman]
+[09Jul2025 21:08:19.774] [Worker-Main-101/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:08:19.776] [Worker-Main-101/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:08:19.777] [Worker-Main-101/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 21:14:43.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <AngelML> zzz

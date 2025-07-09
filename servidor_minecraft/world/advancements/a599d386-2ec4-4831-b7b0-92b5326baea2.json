@@ -10374,80 +10374,211 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "requirement": "2025-07-09 21:01:56 +0000",
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
-    "done": true
+    "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-09 21:01:56 +0000"
+      "log_spam_fixer": "2025-07-09 21:11:56 +0000"
     },
     "done": false
+  },
+  "woodworks:recipes/redstone/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
   },
   "born_in_chaos_v1:good_demoman": {
     "criteria": {
       "good_demoman_0": "2025-07-09 21:01:44 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_bamboo_closet": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_driftwood_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-09 21:03:53 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "upgrade_aquatic:recipes/redstone/trapped_river_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-09 21:07:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-09 21:07:52 +0000"
+    },
+    "done": true
+  },
+  "rubinated_nether:recipes/misc/wisp_from_experience": {
+    "criteria": {
+      "has_xp": "2025-07-09 21:05:17 +0000"
+    },
+    "done": true
+  },
+  "voidtotem:recipes/combat/totem_of_void_undying": {
+    "criteria": {
+      "has_totem": "2025-07-09 21:10:56 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-07-09 21:07:52 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-07-09 21:07:52 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/gold_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-07-09 21:07:52 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
+    },
+    "done": true
+  },
+  "woodworks:recipes/redstone/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-07-09 21:08:16 +0000"
     },
     "done": true
   },
