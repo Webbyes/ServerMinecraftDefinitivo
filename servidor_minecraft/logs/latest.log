@@ -10219,3 +10219,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:24:27.255] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
 [09Jul2025 21:24:27.256] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
 [09Jul2025 21:24:27.256] [Worker-Main-105/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 21:27:00.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [Junior Summoner]
+[09Jul2025 21:28:00.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[09Jul2025 21:28:00.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: players<--[HERE]
