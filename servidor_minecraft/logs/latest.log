@@ -10730,3 +10730,27 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 15:30:41.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es left the game
 [09Jul2025 15:30:41.501] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
 [09Jul2025 15:30:41.502] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Webby80es
+[09Jul2025 16:25:59.738] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player AngelML is a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 16:26:02.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: AngelML[/127.174.19.168:36857] logged in with entity id 208726 at (-2697.500621921387, 74.0, 1907.679599940606)
+[09Jul2025 16:26:02.611] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 16:26:02.612] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 16:26:02.656] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player AngelML
+[09Jul2025 16:26:02.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML joined the game
+[09Jul2025 16:26:02.719] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
+[09Jul2025 16:26:02.864] [Server thread/INFO] [Jade/]: Syncing config to AngelML (a599d386-2ec4-4831-b7b0-92b5326baea2)
+[09Jul2025 16:26:03.072] [Server thread/INFO] [ping-wheel/]: Channel update: AngelML -> default
+[09Jul2025 16:26:03.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of AngelML (18)
+[09Jul2025 16:26:03.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to AngelML
+[09Jul2025 16:26:11.244] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 16:27:02.559] [Worker-Main-484/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[09Jul2025 16:27:02.560] [Worker-Main-484/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 16:27:02.560] [Worker-Main-484/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 16:27:02.560] [Worker-Main-484/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 16:27:13.962] [Worker-Main-481/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[09Jul2025 16:27:13.962] [Worker-Main-481/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 16:27:13.963] [Worker-Main-481/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 16:27:13.963] [Worker-Main-481/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 16:27:13.963] [Worker-Main-481/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 16:27:21.219] [Worker-Main-485/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2912, y=40, z=1713}
+[09Jul2025 16:27:21.220] [Worker-Main-485/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2912, y=40, z=1713}
+[09Jul2025 16:27:21.220] [Worker-Main-485/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2912, y=40, z=1713}
