@@ -10240,3 +10240,14 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 21:51:59.919] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
 [09Jul2025 21:53:45.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML got cut in half by a Mechanical Saw
 [09Jul2025 21:53:46.410] [Server thread/INFO] [do_a_barrel_roll/]: Client of AngelML accepted server config.
+[09Jul2025 21:59:19.180] [Worker-Main-107/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:59:19.181] [Worker-Main-107/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 21:59:19.181] [Worker-Main-107/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 22:01:51.855] [Worker-Main-96/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:house_basement_pool
+[09Jul2025 22:01:51.857] [Worker-Main-96/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 22:01:51.857] [Worker-Main-96/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 22:01:51.858] [Worker-Main-96/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 22:01:51.858] [Worker-Main-96/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 22:02:37.969] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1921, y=-35, z=1669}
+[09Jul2025 22:02:37.970] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1921, y=-35, z=1669}
+[09Jul2025 22:02:37.970] [Worker-Main-101/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1921, y=-35, z=1669}
