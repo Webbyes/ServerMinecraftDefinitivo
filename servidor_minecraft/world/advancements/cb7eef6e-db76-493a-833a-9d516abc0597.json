@@ -10721,6 +10721,460 @@
     },
     "done": true
   },
+  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-07-09 11:56:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
+    "criteria": {
+      "has_item": "2025-07-09 11:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-09 12:27:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-07-09 12:27:44 +0000"
+    },
+    "done": true
+  },
+  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
+    "criteria": {
+      "has_seagrass": "2025-07-09 12:34:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/ims": {
+    "criteria": {
+      "has_radar": "2025-07-09 12:38:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/secure_redstone_interface": {
+    "criteria": {
+      "has_radar": "2025-07-09 12:38:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 13:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-09 13:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-09 13:05:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_catalyst": {
+    "criteria": {
+      "has_undergarden:catalyst": "2025-07-09 13:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catalyst": {
+    "criteria": {
+      "has_catalyst": "2025-07-09 13:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/blast_catalyst": {
+    "criteria": {
+      "has_undergarden:catalyst": "2025-07-09 13:11:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2025-07-09 13:25:43 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:forgotten_field": "2025-07-09 13:27:09 +0000",
+      "undergarden:veil_mushroom_bog": "2025-07-09 13:25:44 +0000",
+      "undergarden:ancient_sea": "2025-07-09 13:36:41 +0000"
+    },
+    "done": false
+  },
+  "undergarden:recipes/building_blocks/pebbles_to_depthrock": {
+    "criteria": {
+      "has_depthrock_pebble": "2025-07-09 13:26:16 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/coarse_deepsoil": {
+    "criteria": {
+      "has_pebble": "2025-07-09 13:26:16 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/gloomgourd_seeds": {
+    "criteria": {
+      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/boomgourd": {
+    "criteria": {
+      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/food/gloomgourd_pie": {
+    "criteria": {
+      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_all_rotspawn": {
+    "criteria": {
+      "kill_rotling": "2025-07-09 13:34:26 +0000",
+      "kill_rotbeast": "2025-07-09 13:27:22 +0000",
+      "kill_rotwalker": "2025-07-09 13:30:43 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/shard_to_crystal": {
+    "criteria": {
+      "has_shard": "2025-07-09 13:27:25 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/overkill": {
+    "criteria": {
+      "overkill": "2025-07-09 13:28:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_dweller_meat": {
+    "criteria": {
+      "has_undergarden:raw_dweller_meat": "2025-07-09 13:30:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smoke_dweller_meat": {
+    "criteria": {
+      "has_undergarden:raw_dweller_meat": "2025-07-09 13:30:00 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_gloomper_leg": {
+    "criteria": {
+      "has_undergarden:raw_gloomper_leg": "2025-07-09 13:32:34 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smoke_gloomper_leg": {
+    "criteria": {
+      "has_undergarden:raw_gloomper_leg": "2025-07-09 13:32:34 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tiles_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/polished_depthrock_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tile_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/polished_depthrock_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/redstone/depthrock_pressure_plate": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/chiseled_depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/polished_depthrock": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/depthrock_wall": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/polished_depthrock_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/redstone/depthrock_button": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tile_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/polished_depthrock_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/stonecutter_from_depthrock": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_stairs": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_slab": {
+    "criteria": {
+      "has_depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_pebble_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_rotling": {
+    "criteria": {
+      "kill_rotling": "2025-07-09 13:34:26 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_raw_cloggrum": "2025-07-09 13:36:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/raw_cloggrum_block": {
+    "criteria": {
+      "has_raw_cloggrum": "2025-07-09 13:36:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/blast_raw_cloggrum": {
+    "criteria": {
+      "has_undergarden:raw_cloggrum": "2025-07-09 13:36:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_raw_cloggrum": {
+    "criteria": {
+      "has_undergarden:raw_cloggrum": "2025-07-09 13:36:28 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_stairs_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/depthrock_brick_wall": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_slab_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_depthrock_bricks": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_stairs": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_tiles": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_chiseled_depthrock_bricks_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_brick_slab": {
+    "criteria": {
+      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_wall_stonecutting": {
+    "criteria": {
+      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/catacombs": {
+    "criteria": {
+      "enter_catacombs": "2025-07-09 13:39:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_forgotten_guardian": {
+    "criteria": {
+      "kill_forgotten_guardian": "2025-07-09 13:39:54 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_nugget_to_ingot": {
+    "criteria": {
+      "has_forgotten_nugget": "2025-07-09 13:39:55 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/smelt_cloggrum_item": {
+    "criteria": {
+      "has_TagKey[minecraft:item / undergarden:cloggrum_items]": "2025-07-09 13:40:39 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/blast_cloggrum_item": {
+    "criteria": {
+      "has_TagKey[minecraft:item / undergarden:cloggrum_items]": "2025-07-09 13:40:39 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/building_blocks/regalium_block": {
+    "criteria": {
+      "has_regalium_crystal": "2025-07-09 13:40:51 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/cloggrum_battleaxe": {
+    "criteria": {
+      "has_cloggrum_battleaxe": "2025-07-09 13:41:03 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/cloggrum_nugget_to_ingot": {
+    "criteria": {
+      "has_cloggrum_nugget": "2025-07-09 13:42:38 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/froststeel_nugget_to_ingot": {
+    "criteria": {
+      "has_froststeel_nugget": "2025-07-09 13:42:44 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/misc/forgotten_upgrade_smithing_template": {
+    "criteria": {
+      "has_template": "2025-07-09 13:42:45 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:emberblade": {
+    "criteria": {
+      "requirement": "2025-07-09 13:54:45 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
       "log_spam_fixer": "2025-07-09 13:58:27 +0000"
@@ -10794,457 +11248,9 @@
     },
     "done": false
   },
-  "create:recipes/misc/smelting/zinc_ingot_from_ore": {
+  "majruszsdifficulty:game_stage_expert": {
     "criteria": {
-      "has_item": "2025-07-09 11:56:59 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/kill_rotling": {
-    "criteria": {
-      "kill_rotling": "2025-07-09 13:34:26 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_gloomper_leg": {
-    "criteria": {
-      "has_undergarden:raw_gloomper_leg": "2025-07-09 13:32:34 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_tiles_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/polished_depthrock_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_tile_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_catalyst": {
-    "criteria": {
-      "has_undergarden:catalyst": "2025-07-09 13:11:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/regalium_block": {
-    "criteria": {
-      "has_regalium_crystal": "2025-07-09 13:40:51 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/polished_depthrock_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/redstone/depthrock_pressure_plate": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/mine_ore": {
-    "criteria": {
-      "has_raw_cloggrum": "2025-07-09 13:36:28 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/raw_cloggrum_block": {
-    "criteria": {
-      "has_raw_cloggrum": "2025-07-09 13:36:28 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smoke_gloomper_leg": {
-    "criteria": {
-      "has_undergarden:raw_gloomper_leg": "2025-07-09 13:32:34 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/catalyst": {
-    "criteria": {
-      "has_catalyst": "2025-07-09 13:11:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/chiseled_depthrock_bricks_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:emberblade": {
-    "criteria": {
-      "requirement": "2025-07-09 13:54:45 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/polished_depthrock": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
-    "criteria": {
-      "has_obsidian": "2025-07-09 13:05:51 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/depthrock_wall": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/all_undergarden_biomes": {
-    "criteria": {
-      "undergarden:forgotten_field": "2025-07-09 13:27:09 +0000",
-      "undergarden:veil_mushroom_bog": "2025-07-09 13:25:44 +0000",
-      "undergarden:ancient_sea": "2025-07-09 13:36:41 +0000"
-    },
-    "done": false
-  },
-  "undergarden:recipes/building_blocks/polished_depthrock_wall_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-07-09 12:27:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/blast_raw_cloggrum": {
-    "criteria": {
-      "has_undergarden:raw_cloggrum": "2025-07-09 13:36:28 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/ims": {
-    "criteria": {
-      "has_radar": "2025-07-09 12:38:56 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/depthrock_brick_wall": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_cloggrum_item": {
-    "criteria": {
-      "has_TagKey[minecraft:item / undergarden:cloggrum_items]": "2025-07-09 13:40:39 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/cloggrum_battleaxe": {
-    "criteria": {
-      "has_cloggrum_battleaxe": "2025-07-09 13:41:03 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/kill_all_rotspawn": {
-    "criteria": {
-      "kill_rotling": "2025-07-09 13:34:26 +0000",
-      "kill_rotbeast": "2025-07-09 13:27:22 +0000",
-      "kill_rotwalker": "2025-07-09 13:30:43 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_wall_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/enter_undergarden": {
-    "criteria": {
-      "enter_undergarden": "2025-07-09 13:25:43 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/misc/blasting/zinc_ingot_from_ore": {
-    "criteria": {
-      "has_item": "2025-07-09 11:56:59 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/gloomgourd_seeds": {
-    "criteria": {
-      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_depthrock_bricks": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_stairs": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/pebbles_to_depthrock": {
-    "criteria": {
-      "has_depthrock_pebble": "2025-07-09 13:26:16 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_dweller_meat": {
-    "criteria": {
-      "has_undergarden:raw_dweller_meat": "2025-07-09 13:30:00 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/coarse_deepsoil": {
-    "criteria": {
-      "has_pebble": "2025-07-09 13:26:16 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_upgrade_smithing_template": {
-    "criteria": {
-      "has_template": "2025-07-09 13:42:45 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_tiles": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/froststeel_nugget_to_ingot": {
-    "criteria": {
-      "has_froststeel_nugget": "2025-07-09 13:42:44 +0000"
-    },
-    "done": true
-  },
-  "oceansdelight:recipes/oceansdelight/seagrass_salad": {
-    "criteria": {
-      "has_seagrass": "2025-07-09 12:34:24 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_wall_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smoke_dweller_meat": {
-    "criteria": {
-      "has_undergarden:raw_dweller_meat": "2025-07-09 13:30:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-09 13:05:51 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/kill_forgotten_guardian": {
-    "criteria": {
-      "kill_forgotten_guardian": "2025-07-09 13:39:54 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/blast_catalyst": {
-    "criteria": {
-      "has_undergarden:catalyst": "2025-07-09 13:11:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/forgotten_nugget_to_ingot": {
-    "criteria": {
-      "has_forgotten_nugget": "2025-07-09 13:39:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-07-09 12:27:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/redstone/depthrock_button": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/boomgourd": {
-    "criteria": {
-      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_chiseled_depthrock_bricks_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/redstone/secure_redstone_interface": {
-    "criteria": {
-      "has_radar": "2025-07-09 12:38:56 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/shard_to_crystal": {
-    "criteria": {
-      "has_shard": "2025-07-09 13:27:25 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/smelt_raw_cloggrum": {
-    "criteria": {
-      "has_undergarden:raw_cloggrum": "2025-07-09 13:36:28 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_tile_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/blast_cloggrum_item": {
-    "criteria": {
-      "has_TagKey[minecraft:item / undergarden:cloggrum_items]": "2025-07-09 13:40:39 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/polished_depthrock_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/food/gloomgourd_pie": {
-    "criteria": {
-      "has_gloomgourd": "2025-07-09 13:26:57 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_slab": {
-    "criteria": {
-      "has_depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/decorations/stonecutter_from_depthrock": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_stairs": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_slab": {
-    "criteria": {
-      "has_depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/misc/cloggrum_nugget_to_ingot": {
-    "criteria": {
-      "has_cloggrum_nugget": "2025-07-09 13:42:38 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_stairs_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "netherexp:nether/overkill": {
-    "criteria": {
-      "overkill": "2025-07-09 13:28:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:undergarden/catacombs": {
-    "criteria": {
-      "enter_catacombs": "2025-07-09 13:39:44 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_to_depthrock_brick_wall_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock_bricks": "2025-07-09 13:38:37 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_brick_slab_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_bricks_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-07-09 13:05:51 +0000"
-    },
-    "done": true
-  },
-  "undergarden:recipes/building_blocks/depthrock_pebble_stonecutting": {
-    "criteria": {
-      "has_undergarden:depthrock": "2025-07-09 13:33:05 +0000"
+      "is_triggered": "2025-07-09 14:26:11 +0000"
     },
     "done": true
   },
