@@ -10125,3 +10125,16 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 11:27:13.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has reached the goal [Big Boy]
 [09Jul2025 11:34:39.148] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2288, y=60, z=1273} BlockPos{x=-2210, y=80, z=838}
 [09Jul2025 11:34:39.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2288, y=60, z=1273} BlockPos{x=-2210, y=80, z=837}
+[09Jul2025 11:43:51.994] [User Authenticator #3/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Webby80es is cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 11:43:55.033] [pool-8-thread-1/INFO] [Vivecraft/]: Vivecraft: Checking for Updates
+[09Jul2025 11:43:55.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Webby80es[/127.150.0.97:34073] logged in with entity id 24402 at (-2328.398198111306, 108.0, 821.2051777997157)
+[09Jul2025 11:43:55.046] [Server thread/INFO] [Create cobblestone/]: Syncing generator types to new client
+[09Jul2025 11:43:55.047] [Server thread/INFO] [Create cobblestone/]: Send generator update packet to client
+[09Jul2025 11:43:55.139] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player Webby80es
+[09Jul2025 11:43:55.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es joined the game
+[09Jul2025 11:43:55.546] [Server thread/INFO] [Jade/]: Syncing config to Webby80es (cb7eef6e-db76-493a-833a-9d516abc0597)
+[09Jul2025 11:43:55.547] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for cb7eef6e-db76-493a-833a-9d516abc0597
+[09Jul2025 11:44:00.417] [Server thread/INFO] [ping-wheel/]: Channel update: Webby80es -> default
+[09Jul2025 11:44:00.451] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Webby80es (18)
+[09Jul2025 11:44:00.452] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Webby80es
+[09Jul2025 11:44:16.843] [Server thread/INFO] [do_a_barrel_roll/]: Client of Webby80es accepted server config.
