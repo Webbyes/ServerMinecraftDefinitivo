@@ -10142,3 +10142,4 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 12:08:47.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML left the game
 [09Jul2025 12:08:47.616] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for a599d386-2ec4-4831-b7b0-92b5326baea2
 [09Jul2025 12:08:47.617] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client AngelML
+[09Jul2025 12:28:09.213] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Webby80es" tried to enter a passcode into "Keypad Door" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=-2323, y=26, z=839}] too quickly!
