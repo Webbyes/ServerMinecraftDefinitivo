@@ -10516,3 +10516,168 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.server.level.Server
 [09Jul2025 15:02:53.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [A Howling Discovery]
 [09Jul2025 15:02:58.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas fell from a high place
 [09Jul2025 15:02:59.727] [Server thread/INFO] [do_a_barrel_roll/]: Client of Elpompetas accepted server config.
+[09Jul2025 15:03:57.416] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Elpompetas lost connection: Disconnected
+[09Jul2025 15:03:57.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Elpompetas left the game
+[09Jul2025 15:03:57.417] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for f1560095-bd08-4100-b4d8-75c6e03f0dc3
+[09Jul2025 15:03:57.418] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Elpompetas
+[09Jul2025 15:04:14.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Successfully filled 105 block(s)]
+[09Jul2025 15:07:33.901] [Worker-Main-255/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 15:07:33.902] [Worker-Main-255/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_additions_3_pool
+[09Jul2025 15:07:33.904] [Worker-Main-255/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:monster_hunter_end_1_pool
+[09Jul2025 15:07:34.513] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1954, y=60, z=1561}
+[09Jul2025 15:07:34.514] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1959, y=58, z=1552}
+[09Jul2025 15:07:34.514] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1960, y=59, z=1561}
+[09Jul2025 15:07:34.571] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1953, y=59, z=1568}
+[09Jul2025 15:07:35.058] [Worker-Main-251/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1954, y=59, z=1595}
+[09Jul2025 15:07:37.430] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1945, y=62, z=1542}
+[09Jul2025 15:07:37.430] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1948, y=59, z=1537}
+[09Jul2025 15:07:37.430] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1944, y=62, z=1540}
+[09Jul2025 15:07:37.559] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1946, y=58, z=1598}
+[09Jul2025 15:07:37.597] [Worker-Main-351/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1950, y=60, z=1568}
+[09Jul2025 15:07:37.599] [Worker-Main-351/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1940, y=60, z=1571}
+[09Jul2025 15:07:41.187] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1930, y=63, z=1547}
+[09Jul2025 15:07:41.187] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1934, y=63, z=1540}
+[09Jul2025 15:07:41.187] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1936, y=63, z=1548}
+[09Jul2025 15:07:41.243] [Worker-Main-262/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1929, y=60, z=1528}
+[09Jul2025 15:07:41.243] [Worker-Main-262/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1936, y=58, z=1530}
+[09Jul2025 15:07:41.325] [Worker-Main-262/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1921, y=66, z=1578}
+[09Jul2025 15:07:42.950] [Worker-Main-348/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1936, y=58, z=1595}
+[09Jul2025 15:07:42.950] [Worker-Main-348/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1929, y=59, z=1585}
+[09Jul2025 15:07:47.948] [Worker-Main-353/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1988, y=61, z=1615}
+[09Jul2025 15:07:47.949] [Worker-Main-353/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1996, y=58, z=1612}
+[09Jul2025 15:07:48.658] [Worker-Main-348/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1941, y=58, z=1613}
+[09Jul2025 15:07:51.435] [Worker-Main-249/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1926, y=63, z=1609}
+[09Jul2025 15:07:51.435] [Worker-Main-249/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1925, y=61, z=1611}
+[09Jul2025 15:07:53.760] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1969, y=62, z=1622}
+[09Jul2025 15:07:53.760] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1973, y=63, z=1631}
+[09Jul2025 15:07:53.772] [Worker-Main-155/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1991, y=60, z=1627}
+[09Jul2025 15:07:53.772] [Worker-Main-155/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1988, y=58, z=1625}
+[09Jul2025 15:07:53.789] [Worker-Main-155/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-2004, y=58, z=1630}
+[09Jul2025 15:07:53.815] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1956, y=65, z=1629}
+[09Jul2025 15:07:53.815] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1960, y=59, z=1617}
+[09Jul2025 15:07:53.815] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1958, y=65, z=1630}
+[09Jul2025 15:07:53.815] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1957, y=61, z=1617}
+[09Jul2025 15:07:57.261] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1908, y=64, z=1545}
+[09Jul2025 15:07:57.261] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1912, y=63, z=1549}
+[09Jul2025 15:07:57.320] [Worker-Main-352/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1919, y=63, z=1534}
+[09Jul2025 15:07:58.036] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1913, y=62, z=1555}
+[09Jul2025 15:07:58.037] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1911, y=63, z=1553}
+[09Jul2025 15:07:58.037] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1914, y=63, z=1563}
+[09Jul2025 15:07:58.155] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1911, y=68, z=1574}
+[09Jul2025 15:07:58.155] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1913, y=65, z=1573}
+[09Jul2025 15:07:58.155] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1915, y=66, z=1575}
+[09Jul2025 15:07:58.194] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1912, y=64, z=1589}
+[09Jul2025 15:07:58.194] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1905, y=64, z=1597}
+[09Jul2025 15:08:03.129] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:08:03.129] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[09Jul2025 15:08:03.129] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[09Jul2025 15:08:03.130] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[09Jul2025 15:08:03.130] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:08:03.130] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:08:03.130] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[09Jul2025 15:08:03.133] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:08:03.136] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:08:03.136] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:08:03.136] [Worker-Main-348/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:08:04.322] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1891, y=60, z=1566}
+[09Jul2025 15:08:04.323] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1904, y=59, z=1562}
+[09Jul2025 15:08:04.323] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1896, y=60, z=1566}
+[09Jul2025 15:08:04.323] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1895, y=61, z=1558}
+[09Jul2025 15:08:04.343] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1891, y=63, z=1586}
+[09Jul2025 15:08:04.343] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1893, y=60, z=1593}
+[09Jul2025 15:08:04.343] [Worker-Main-154/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1901, y=62, z=1590}
+[09Jul2025 15:08:04.360] [Worker-Main-249/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1899, y=63, z=1582}
+[09Jul2025 15:08:04.360] [Worker-Main-249/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1896, y=64, z=1570}
+[09Jul2025 15:08:04.360] [Worker-Main-249/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1894, y=61, z=1572}
+[09Jul2025 15:08:04.409] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1896, y=63, z=1550}
+[09Jul2025 15:08:04.409] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1891, y=61, z=1549}
+[09Jul2025 15:08:05.506] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1903, y=62, z=1609}
+[09Jul2025 15:08:05.506] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1892, y=61, z=1608}
+[09Jul2025 15:08:05.506] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1889, y=59, z=1600}
+[09Jul2025 15:08:08.173] [Worker-Main-251/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1947, y=67, z=1631}
+[09Jul2025 15:08:08.173] [Worker-Main-251/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1942, y=62, z=1618}
+[09Jul2025 15:08:08.173] [Worker-Main-251/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1944, y=65, z=1618}
+[09Jul2025 15:08:08.188] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1932, y=67, z=1628}
+[09Jul2025 15:08:11.845] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.849] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.850] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.852] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.852] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.854] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.855] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.859] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.861] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.861] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.862] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.865] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.865] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.873] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.873] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.874] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:11.874] [Worker-Main-353/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:08:12.615] [Worker-Main-250/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1976, y=62, z=1634}
+[09Jul2025 15:08:12.616] [Worker-Main-250/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1978, y=60, z=1639}
+[09Jul2025 15:08:12.659] [Worker-Main-250/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1961, y=63, z=1640}
+[09Jul2025 15:08:12.660] [Worker-Main-250/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1966, y=58, z=1647}
+[09Jul2025 15:08:12.660] [Worker-Main-250/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1954, y=65, z=1635}
+[09Jul2025 15:08:12.676] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1985, y=60, z=1632}
+[09Jul2025 15:08:12.677] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1997, y=59, z=1633}
+[09Jul2025 15:08:12.677] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1988, y=58, z=1638}
+[09Jul2025 15:10:19.156] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:10:19.157] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[09Jul2025 15:10:19.158] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[09Jul2025 15:10:19.158] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[09Jul2025 15:10:19.159] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:10:19.159] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:10:19.159] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[09Jul2025 15:10:19.160] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:10:19.160] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:10:19.161] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:10:19.161] [Worker-Main-353/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:10:20.691] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1876, y=59, z=1555}
+[09Jul2025 15:10:20.691] [Worker-Main-264/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1874, y=60, z=1557}
+[09Jul2025 15:10:20.773] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1888, y=62, z=1548}
+[09Jul2025 15:10:20.773] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1878, y=62, z=1539}
+[09Jul2025 15:10:20.773] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1882, y=62, z=1548}
+[09Jul2025 15:10:20.793] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1878, y=62, z=1521}
+[09Jul2025 15:10:20.793] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1878, y=63, z=1524}
+[09Jul2025 15:10:20.793] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1874, y=59, z=1522}
+[09Jul2025 15:10:20.823] [Worker-Main-148/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1883, y=66, z=1513}
+[09Jul2025 15:10:22.220] [Worker-Main-353/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1887, y=62, z=1579}
+[09Jul2025 15:10:22.221] [Worker-Main-353/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1885, y=58, z=1580}
+[09Jul2025 15:10:30.166] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1858, y=59, z=1538}
+[09Jul2025 15:10:30.172] [Worker-Main-263/INFO] [dev.orderedchaos.projectvibrantjourneys.core.ProjectVibrantJourneys/]: BlockPos{x=-1872, y=59, z=1533}
+[09Jul2025 15:12:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AngelML has made the advancement [The Wind Darkening]
+[09Jul2025 15:13:43.203] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:13:43.203] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_2_pool
+[09Jul2025 15:13:43.203] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_4_pool
+[09Jul2025 15:13:43.204] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_1_pool
+[09Jul2025 15:13:43.204] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:13:43.204] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:13:43.204] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:angler_additions_3_pool
+[09Jul2025 15:13:43.205] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_additions_3_pool
+[09Jul2025 15:13:43.205] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:13:43.205] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:13:43.205] [Worker-Main-151/WARN] [lithostitched/]: Non-existent template pool reference: minecraft:cook_end_1_pool
+[09Jul2025 15:14:29.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Webby80es: Teleported Webby80es to AngelML]
+[09Jul2025 15:14:38.511] [Worker-Main-264/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-73, y=65, z=42}
+[09Jul2025 15:14:38.512] [Worker-Main-264/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=46}
+[09Jul2025 15:16:38.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Webby80es has completed the challenge [Praise the Sun]
+[09Jul2025 15:18:34.161] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.161] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.161] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.161] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.161] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.162] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.162] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.162] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.163] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.163] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.163] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.164] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.164] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.164] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.165] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.166] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:18:34.166] [Worker-Main-249/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[09Jul2025 15:22:43.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invalid IP address or unknown player
